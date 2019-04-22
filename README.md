@@ -3,6 +3,8 @@
 ![PlasmaSolution-logo](https://github.com/SebastianDahle/PlasmaSolution/blob/master/PlasmaSolution.jpg "PlasmaSolution-logo")
 The project *PlasmaSolution* is a Marie Sklodowoska Curie Actions - Individual Fellowship by the European Commission that aims to implement non-thermal plasma technology at the Department of Wood Science and Technology, Biotechnical Faculty, University of Ljubljana, Slovenia. Further goal of the project is the development and testing of plasma-cured coatings for wood protection as an innovative new appraoch in coatings deposition.
 
+The equipment and methodology developed in the PlasmaSolution project shall be made openly available to everyone interested in reproducing or applying them. Participation in the activities and further developments are more than welcome! In case of questions and remarks, please contact Sebastian Dahle via [sebastian.dahle@bf.uni-lj.si](mailto:sebastian.dahle@bf.uni-lj.si).
+
 ## WARNING
 
 **!! Dealing with plasma involves using high voltages. Please make sure you are familiar with all safety instructions and necessary practices!**
