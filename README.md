@@ -28,6 +28,9 @@ The project *PlasmaSolution* is a Marie Sklodowoska Curie Actions - Individual F
 
 Please read [CONTRIBUTING.md](https://github.com/SebastianDahle/PlasmaSolution/blob/master/CONTRIBUTING.md) for details on how to participate and the process for submitting pull requests to us, and check [CODE_OF_CONDUCT.md](https://github.com/SebastianDahle/PlasmaSolution/blob/master/CODE_OF_CONDUCT.md) for our code of conduct.
 
+All releases are uploaded to Zenodo. 
+Latest release v1.0.0, see: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2648790.svg)](https://doi.org/10.5281/zenodo.2648790)
+
 ## Versioning
 
 We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/SebastianDahle/PlasmaSolution/tags). 
