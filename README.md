@@ -45,5 +45,5 @@ This project is licensed under the GNU General Public License - see the [LICENSE
 
 ## Acknowledgments
 
-* The project PlasmaSolution has received funding from the European Union's Horizon 2020 research and innovation programme under grant agreement No 745936. ![EU flag](https://github.com/SebastianDahle/PlasmaSolution/blob/master/EU_flag.jpg "EU flag")
+* The project PlasmaSolution has received funding from the European Union's Horizon 2020 research and innovation programme under grant agreement No 745936. ![EU flag](https://github.com/SebastianDahle/PlasmaSolution/blob/master/EU_flag_small.jpg "EU flag")
 
