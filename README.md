@@ -1,6 +1,6 @@
 # PlasmaSolution
 
-![PlasmaSolution-logo](https://github.com/SebastianDahle/PlasmaSolution/PlasmaSolution.jpg "PlasmaSolution-logo")
+![PlasmaSolution-logo](https://github.com/SebastianDahle/PlasmaSolution/blob/master/PlasmaSolution.jpg "PlasmaSolution-logo")
 The project *PlasmaSolution* is a Marie Sklodowoska Curie Actions - Individual Fellowship by the European Commission that aims to implement non-thermal plasma technology at the Department of Wood Science and Technology, Biotechnical Faculty, University of Ljubljana, Slovenia. Further goal of the project is the development and testing of plasma-cured coatings for wood protection as an innovative new appraoch in coatings deposition.
 
 ## WARNING
@@ -10,19 +10,19 @@ The project *PlasmaSolution* is a Marie Sklodowoska Curie Actions - Individual F
 ## Getting Started
 
 * [SolidWorks](https://www.solidworks.com/) - The CAD software used for mechanical constructions.
-..* All constructions are provided openly accessible as STEP and PDF files.
-..* Free software is available to view exported 3D STEP files, such as [STP Viewer](https://stpviewer.com/).
-..* A free trial version of SolidWorks is available via their [website](https://www.solidworks.com/solution/job-functions/students).
+* All constructions are provided openly accessible as STEP and PDF files.
+  * Free software is available to view exported 3D STEP files, such as [STP Viewer](https://stpviewer.com/).
+  * A free trial version of SolidWorks is available via their [website](https://www.solidworks.com/solution/job-functions/students).
 * [Autodesk EAGLE](https://www.autodesk.de/products/eagle) - Used to develop circuits and PCB layouts.
-..* All wiring plans are exported to PDF for easy access.
-..* A free version of the proprietory software is available for Windows, MAC, and LINUX from [Autodesk](https://www.autodesk.de/products/eagle/free-download).
+  * All wiring plans are exported to PDF for easy access.
+  * A free version of the proprietory software is available for Windows, MAC, and LINUX from [Autodesk](https://www.autodesk.de/products/eagle/free-download).
 * [MS Visio](https://products.office.com/visio/) - The flow chart software for wiring plans.
-..* All wiring plans are provided openly accessible as SVG and PDF files.
-..* A free viewer for original proprietory files is availabe from [Microsoft](https://www.microsoft.com/download/details.aspx?id=35811).
+  * All wiring plans are provided openly accessible as SVG and PDF files.
+  * A free viewer for original proprietory files is availabe from [Microsoft](https://www.microsoft.com/download/details.aspx?id=35811).
 * [MS Excel](https://products.office.com/excel/) - Used for tables and lists, such as summaries of parts and components.
-..* All charts, tables, and lists are exported as CSV and PDF.
+  * All charts, tables, and lists are exported as CSV and PDF.
 * [MS Word](https://products.office.com/word/) - Used for instructions and publications.
-..* All documents are exported to PDF.
+  * All documents are exported to PDF.
 
 ## Contributing
 
@@ -41,9 +41,9 @@ See also the list of [contributors](https://github.com/SebastianDahle/PlasmaSolu
 
 ## License
 
-This project is licensed under the GNU General Public License - see the [LICENSE.md](https://github.com/SebastianDahle/PlasmaSolution/LICENSE) file for details
+This project is licensed under the GNU General Public License - see the [LICENSE.md](https://github.com/SebastianDahle/PlasmaSolution/blob/master/LICENSE) file for details
 
 ## Acknowledgments
 
-* The project PlasmaSolution has received funding from the European Union's Horizon 2020 research and innovation programme under grant agreement No 745936. ![EU flag](https://github.com/SebastianDahle/PlasmaSolution/EU_flag.jpg "EU flag")
+* The project PlasmaSolution has received funding from the European Union's Horizon 2020 research and innovation programme under grant agreement No 745936. ![EU flag](https://github.com/SebastianDahle/PlasmaSolution/blob/master/EU_flag.jpg "EU flag")
 
