@@ -15,15 +15,15 @@ The equipment and methodology developed in the PlasmaSolution project shall be m
 * All constructions are provided openly accessible as STEP and PDF files.
   * Free software is available to view exported 3D STEP files, such as [STP Viewer](https://stpviewer.com/).
   * A free trial version of SolidWorks is available via their [website](https://www.solidworks.com/solution/job-functions/students).
-* [Autodesk EAGLE](https://www.autodesk.de/products/eagle) - Used to develop circuits and PCB layouts.
+* [KiCad EDA](kicad-pcb.org/download/) - Open source software used to develop circuits and PCB layouts.
   * All wiring plans are exported to PDF for easy access.
-  * A free version of the proprietory software is available for Windows, MAC, and LINUX from [Autodesk](https://www.autodesk.de/products/eagle/free-download).
+  * All PCB layouts are exported to Gerber format for easy ordering.
 * [MS Visio](https://products.office.com/visio/) - The flow chart software for wiring plans.
   * All wiring plans are provided openly accessible as SVG and PDF files.
   * A free viewer for original proprietory files is availabe from [Microsoft](https://www.microsoft.com/download/details.aspx?id=35811).
-* [MS Excel](https://products.office.com/excel/) - Used for tables and lists, such as summaries of parts and components.
+* [MS Excel](https://products.office.com/excel/) - Used for tables and lists, whenever markup-files are less suited.
   * All charts, tables, and lists are exported as CSV and PDF.
-* [MS Word](https://products.office.com/word/) - Used for instructions and publications.
+* [MS Word](https://products.office.com/word/) - Used for instructions and publications, whenever markup-files are less suited.
   * All documents are exported to PDF.
 
 ## Contributing
