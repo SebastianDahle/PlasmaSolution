@@ -1,0 +1,1040 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Generiert durch Microsoft Visio, SVG Export ZVS power supply V1 - wiring diagram.svg Page-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="11.6929in" height="8.26772in"
+		viewBox="0 0 841.89 595.276" xml:space="preserve" color-interpolation-filters="sRGB" class="st20">
+	<v:documentProperties v:langID="1031" v:metric="true" v:viewMarkup="false">
+		<v:userDefs>
+			<v:ud v:nameU="msvNoAutoConnect" v:val="VT0(1):26"/>
+		</v:userDefs>
+	</v:documentProperties>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:#ffffff;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st2 {fill:#000000;font-family:Calibri;font-size:1.00001em;font-stretch:semi-expanded}
+		.st3 {fill:#ffffff;fill-opacity:0.4}
+		.st4 {fill:#cccccc;fill-opacity:0.4}
+		.st5 {stroke:#000000;stroke-linecap:butt;stroke-width:1.47402}
+		.st6 {stroke:#000000;stroke-linecap:butt;stroke-width:2.21102}
+		.st7 {fill:#000000;font-family:Calibri;font-size:0.833336em}
+		.st8 {fill:#000000}
+		.st9 {stroke:none;stroke-linecap:butt;stroke-width:0.75;visibility:hidden}
+		.st10 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st11 {stroke:#000000;stroke-dasharray:5.25,3.75;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st12 {fill:none;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st13 {fill:#000000;font-family:Calibri;font-size:0.666664em}
+		.st14 {fill:#000000;stroke:none;stroke-linecap:butt;stroke-width:1.47402;visibility:hidden}
+		.st15 {fill:#000000;font-family:Calibri;font-size:1.53543em}
+		.st16 {stroke:#000000;stroke-linecap:butt;stroke-width:2.94803}
+		.st17 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
+		.st18 {fill:#ffffff}
+		.st19 {fill:#000000;font-family:Calibri;font-size:0.75em}
+		.st20 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<defs id="Patterns_And_Gradients">
+		<linearGradient id="grad0-11" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(90 0.5 0.5)">
+			<stop offset="0.01" stop-color="#ffffff" stop-opacity="1"/>
+			<stop offset="0.5" stop-color="#fefefe" stop-opacity="1"/>
+			<stop offset="1" stop-color="#ffffff" stop-opacity="1"/>
+		</linearGradient>
+		<linearGradient id="grad0-27" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(90 0.5 0.5)">
+			<stop offset="0.01" stop-color="#eef2f7" stop-opacity="1"/>
+			<stop offset="0.5" stop-color="#d8e2ed" stop-opacity="1"/>
+			<stop offset="1" stop-color="#eef2f7" stop-opacity="1"/>
+		</linearGradient>
+		<linearGradient id="grad0-31" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(270 0.5 0.5)">
+			<stop offset="0" stop-color="#d8e2ed" stop-opacity="1"/>
+			<stop offset="1" stop-color="#eef2f7" stop-opacity="1"/>
+		</linearGradient>
+	</defs>
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<v:userDefs>
+			<v:ud v:nameU="DPSTCount" v:prompt="" v:val="VT0(2):26"/>
+			<v:ud v:nameU="ChassisCount" v:prompt="" v:val="VT0(3):26"/>
+			<v:ud v:nameU="GroundCount" v:prompt="" v:val="VT0(2):26"/>
+			<v:ud v:nameU="FuseCount" v:prompt="" v:val="VT0(2):26"/>
+			<v:ud v:nameU="MContactCount" v:prompt="" v:val="VT0(4):26"/>
+			<v:ud v:nameU="BContactCount" v:prompt="" v:val="VT0(2):26"/>
+			<v:ud v:nameU="RelayCount" v:prompt="" v:val="VT0(2):26"/>
+			<v:ud v:nameU="GenericCount" v:prompt="" v:val="VT0(6):26"/>
+			<v:ud v:nameU="LampCount" v:prompt="" v:val="VT0(2):26"/>
+			<v:ud v:nameU="KvCount" v:prompt="" v:val="VT0(2):26"/>
+			<v:ud v:nameU="IndicatorCount" v:prompt="" v:val="VT0(2):26"/>
+			<v:ud v:nameU="CircuitBreakerCount" v:prompt="" v:val="VT0(2):26"/>
+		</v:userDefs>
+		<title>Zeichenblatt-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<v:layer v:name="Container" v:index="0"/>
+		<v:layer v:name="Elektrisch" v:index="1"/>
+		<v:layer v:name="Verbinder" v:index="2"/>
+		<g id="group1-1" transform="translate(18,-18)" v:mID="1" v:groupContext="group" v:layerMember="0">
+			<v:userDefs>
+				<v:ud v:nameU="msvShapeCategories" v:prompt="" v:val="VT4(ContainerStyleDefaults)"/>
+				<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT4(Container)"/>
+				<v:ud v:nameU="msvSDContainerMargin" v:prompt="" v:val="VT0(0.11811023622047):24"/>
+				<v:ud v:nameU="msvSDContainerResize" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="msvSDContainerLocked" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="msvSDContainerNoHighlight" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="msvSDContainerNoRibbon" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="msvSDContainerStyle" v:prompt="" v:val="VT0(2):26"/>
+				<v:ud v:nameU="msvSDContainerStyleCount" v:prompt="" v:val="VT0(14):26"/>
+				<v:ud v:nameU="msvSDContainerRequiredCategories" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="msvSDContainerExcludedCategories" v:prompt="" v:val="VT4(DoNotContain)"/>
+				<v:ud v:nameU="msvSDHeadingStyle" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="msvSDHeadingStyleCount" v:prompt="" v:val="VT0(4):26"/>
+				<v:ud v:nameU="HeadingSide" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="HeadingSpan" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="HeadingAlign" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="RTL" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="FnForceContrast" v:prompt="" v:val="VT5(#ffffff)"/>
+				<v:ud v:nameU="BaseColor" v:prompt="" v:val="VT5(#ffffff)"/>
+				<v:ud v:nameU="HColor1" v:prompt="" v:val="VT5(#ffffff)"/>
+				<v:ud v:nameU="HColor2" v:prompt="" v:val="VT5(#fefefe)"/>
+				<v:ud v:nameU="HColor3" v:prompt="" v:val="VT5(#e9e9e9)"/>
+				<v:ud v:nameU="HColor4" v:prompt="" v:val="VT5(#efefef)"/>
+				<v:ud v:nameU="BColor1" v:prompt="" v:val="VT5(#ffffff)"/>
+				<v:ud v:nameU="BColor2" v:prompt="" v:val="VT5(#ffffff)"/>
+				<v:ud v:nameU="LineColor" v:prompt="" v:val="VT5(#d5d5d5)"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="Embellishment" v:prompt="" v:val="VT0(2):26"/>
+			</v:userDefs>
+			<title>Klassisch</title>
+			<g id="group2-2" v:mID="2" v:groupContext="group" v:layerMember="0">
+				<v:userDefs>
+					<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="CStyle" v:prompt="" v:val="VT0(2):26"/>
+					<v:ud v:nameU="HSide" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="HSpan" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="HAlign" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="HorzAlign" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="SquareCorners" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="Corner6" v:prompt="" v:val="VT0(0.19685039370079):24"/>
+					<v:ud v:nameU="FillForegndIn" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="FillBkgndIn" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="FillPatternIn" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="BaseColor" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="BackFillColor" v:prompt="" v:val="VT5(#96afcf)"/>
+					<v:ud v:nameU="BackLineColor" v:prompt="" v:val="VT5(#1f477d)"/>
+					<v:ud v:nameU="DarkerColor" v:prompt="" v:val="VT5(#1f477d)"/>
+				</v:userDefs>
+				<title>Tabelle.2</title>
+				<g id="shape3-3" v:mID="3" v:groupContext="shape" v:layerMember="0" transform="translate(2.83465,2.83465)">
+					<title>Tabelle.3</title>
+					<v:userDefs>
+						<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT0(0):26"/>
+						<v:ud v:nameU="msvThemeColors" v:prompt="" v:val="VT0(0):26"/>
+						<v:ud v:nameU="msvThemeEffects" v:prompt="" v:val="VT0(0):26"/>
+						<v:ud v:nameU="CStyle" v:prompt="" v:val="VT0(2):26"/>
+						<v:ud v:nameU="HSide" v:prompt="" v:val="VT0(0):26"/>
+						<v:ud v:nameU="HSpan" v:prompt="" v:val="VT0(0):26"/>
+						<v:ud v:nameU="HAlign" v:prompt="" v:val="VT0(0):26"/>
+						<v:ud v:nameU="HorzAlign" v:prompt="" v:val="VT0(1):26"/>
+						<v:ud v:nameU="SquareCorners" v:prompt="" v:val="VT0(0):26"/>
+						<v:ud v:nameU="OffsetX10" v:prompt="" v:val="VT0(0.039370078740157):24"/>
+						<v:ud v:nameU="OffsetY10" v:prompt="" v:val="VT0(-0.039370078740157):24"/>
+						<v:ud v:nameU="BackFillColor" v:prompt="" v:val="VT5(#96afcf)"/>
+						<v:ud v:nameU="BackLineColor" v:prompt="" v:val="VT5(#1f477d)"/>
+						<v:ud v:nameU="DarkerColor" v:prompt="" v:val="VT5(#1f477d)"/>
+					</v:userDefs>
+				</g>
+				<g id="shape2-5" v:mID="2" v:groupContext="groupContent" v:layerMember="0">
+					<path d="M0 595.28 L403.44 595.28 L806.88 595.28 L806.88 36 L403.44 36 L0 36 L0 595.28 Z" class="st1"/>
+				</g>
+			</g>
+			<g id="group4-7" transform="translate(0,-533.764)" v:mID="4" v:groupContext="group" v:layerMember="0">
+				<v:userDefs>
+					<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT4(Heading)"/>
+					<v:ud v:nameU="CStyle" v:prompt="" v:val="VT0(2):26"/>
+					<v:ud v:nameU="HSide" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="HSpan" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="HAlign" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="Hidden" v:prompt="" v:val="VT0(0):5"/>
+					<v:ud v:nameU="HorzAlign" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="Rounding" v:prompt="" v:val="VT0(0):1"/>
+					<v:ud v:nameU="SquareCorners" v:prompt="" v:val="VT0(3):26"/>
+					<v:ud v:nameU="Inset" v:prompt="" v:val="VT0(0):24"/>
+					<v:ud v:nameU="InsideRadius" v:prompt="" v:val="VT0(0):24"/>
+					<v:ud v:nameU="InsetXInt" v:prompt="" v:val="VT0(0):24"/>
+					<v:ud v:nameU="HTxtMargin" v:prompt="" v:val="VT0(0.059055118110236):24"/>
+					<v:ud v:nameU="HTxtWidth" v:prompt="" v:val="VT0(2.9527559055118):24"/>
+					<v:ud v:nameU="HLeft" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="HRight" v:prompt="" v:val="VT0(2.9527559055118):24"/>
+					<v:ud v:nameU="SquareCorners7" v:prompt="" v:val="VT0(3):26"/>
+					<v:ud v:nameU="Offset" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="Rounding8" v:prompt="" v:val="VT0(0.11811023622047):24"/>
+					<v:ud v:nameU="InsetX9" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="InsetY9" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="OffsetY11" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="OffsetY12" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="Width12" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="msvSDContainerHeadingEdge" v:prompt="" v:val="VT4(Bottom)"/>
+					<v:ud v:nameU="HLineVisible" v:prompt="" v:val="VT0(1):5"/>
+					<v:ud v:nameU="HFillVisible" v:prompt="" v:val="VT0(0):5"/>
+					<v:ud v:nameU="FillForegndIn" v:prompt="" v:val="VT5(#ffffff)"/>
+					<v:ud v:nameU="FillBkgndIn" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="BaseColor" v:prompt="" v:val="VT5(#ffffff)"/>
+					<v:ud v:nameU="FillPatternIn" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="HTxtWidth" v:prompt="" v:val="VT0(11.206692913386):1"/>
+					<v:ud v:nameU="HRight" v:prompt="" v:val="VT0(11.206692913386):1"/>
+				</v:userDefs>
+				<title>Tabelle.4</title>
+				<desc>Wiring diagram – ZVS-driver HV power supply</desc>
+				<g id="shape5-8" v:mID="5" v:groupContext="shape" v:layerMember="0">
+					<title>Tabelle.5</title>
+					<v:userDefs>
+						<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT0(0):26"/>
+						<v:ud v:nameU="msvThemeColors" v:prompt="" v:val="VT0(0):26"/>
+						<v:ud v:nameU="msvThemeEffects" v:prompt="" v:val="VT0(0):26"/>
+						<v:ud v:nameU="CStyle" v:prompt="" v:val="VT0(2):26"/>
+						<v:ud v:nameU="Rounding" v:prompt="" v:val="VT0(0):1"/>
+						<v:ud v:nameU="SquareCorners" v:prompt="" v:val="VT0(3):26"/>
+						<v:ud v:nameU="HLeft" v:prompt="" v:val="VT0(0):26"/>
+						<v:ud v:nameU="HRight" v:prompt="" v:val="VT0(2.9527559055118):24"/>
+						<v:ud v:nameU="Hidden" v:prompt="" v:val="VT0(0):5"/>
+						<v:ud v:nameU="BowHeight7" v:prompt="" v:val="VT0(0.11811023622047):24"/>
+						<v:ud v:nameU="Offset7" v:prompt="" v:val="VT0(0.0052083333333333):3"/>
+						<v:ud v:nameU="AnchorPt7" v:prompt="" v:val="VT0(0.64439796587927):24"/>
+						<v:ud v:nameU="HSide" v:prompt="" v:val="VT0(0):26"/>
+						<v:ud v:nameU="HAlign" v:prompt="" v:val="VT0(0):26"/>
+						<v:ud v:nameU="HRight" v:prompt="" v:val="VT0(11.206692913386):1"/>
+					</v:userDefs>
+				</g>
+				<g id="shape4-12" v:mID="4" v:groupContext="groupContent" v:layerMember="0">
+					<v:textBlock v:margins="rect(4,6,4,6)" v:tabSpace="42.5197"/>
+					<v:textRect cx="403.441" cy="582.52" width="806.89" height="25.5118"/>
+					<path d="M0 595.28 L806.88 595.28 L806.88 569.76 L403.44 569.76 L0 569.76 L0 595.28 Z" class="st1"/>
+					<text x="281.11" y="586.12" class="st2" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>Wiring diagram – ZVS-driver HV power supply</text>				</g>
+			</g>
+		</g>
+		<g id="group40-15" transform="translate(28.3465,-348.661)" v:mID="40" v:groupContext="group" v:layerMember="0">
+			<v:userDefs>
+				<v:ud v:nameU="msvShapeCategories" v:prompt="" v:val="VT4(ContainerStyleDefaults)"/>
+				<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT4(Container)"/>
+				<v:ud v:nameU="msvSDContainerMargin" v:prompt="" v:val="VT0(0.11811023622047):24"/>
+				<v:ud v:nameU="msvSDContainerResize" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="msvSDContainerLocked" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="msvSDContainerNoHighlight" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="msvSDContainerNoRibbon" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="msvSDContainerStyle" v:prompt="" v:val="VT0(10):26"/>
+				<v:ud v:nameU="msvSDContainerStyleCount" v:prompt="" v:val="VT0(14):26"/>
+				<v:ud v:nameU="msvSDContainerRequiredCategories" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="msvSDContainerExcludedCategories" v:prompt="" v:val="VT4(DoNotContain)"/>
+				<v:ud v:nameU="msvSDHeadingStyle" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="msvSDHeadingStyleCount" v:prompt="" v:val="VT0(4):26"/>
+				<v:ud v:nameU="HeadingSide" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="HeadingSpan" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="HeadingAlign" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="RTL" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="FnForceContrast" v:prompt="" v:val="VT5(#ffffff)"/>
+				<v:ud v:nameU="BaseColor" v:prompt="" v:val="VT5(#c8d6e6)"/>
+				<v:ud v:nameU="HColor1" v:prompt="" v:val="VT5(#eef2f7)"/>
+				<v:ud v:nameU="HColor2" v:prompt="" v:val="VT5(#d8e2ed)"/>
+				<v:ud v:nameU="HColor3" v:prompt="" v:val="VT5(#b4c7dc)"/>
+				<v:ud v:nameU="HColor4" v:prompt="" v:val="VT5(#cdddef)"/>
+				<v:ud v:nameU="BColor1" v:prompt="" v:val="VT5(#f7f9fb)"/>
+				<v:ud v:nameU="BColor2" v:prompt="" v:val="VT5(#eff3f8)"/>
+				<v:ud v:nameU="LineColor" v:prompt="" v:val="VT5(#8dabcb)"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="Embellishment" v:prompt="" v:val="VT0(2):26"/>
+			</v:userDefs>
+			<title>Durchsichtig</title>
+			<g id="group41-16" v:mID="41" v:groupContext="group" v:layerMember="0">
+				<v:userDefs>
+					<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="CStyle" v:prompt="" v:val="VT0(10):26"/>
+					<v:ud v:nameU="HSide" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="HSpan" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="HAlign" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="HorzAlign" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="SquareCorners" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="Corner6" v:prompt="" v:val="VT0(0.19685039370079):24"/>
+					<v:ud v:nameU="FillForegndIn" v:prompt="" v:val="VT5(#d7e1ec)"/>
+					<v:ud v:nameU="FillBkgndIn" v:prompt="" v:val="VT5(#c8d6e6)"/>
+					<v:ud v:nameU="FillPatternIn" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="BaseColor" v:prompt="" v:val="VT5(#d7e1ec)"/>
+				</v:userDefs>
+				<title>Tabelle.41</title>
+				<g id="shape42-17" v:mID="42" v:groupContext="shape" v:layerMember="0" transform="translate(2.83465,2.83465)">
+					<title>Tabelle.42</title>
+					<v:userDefs>
+						<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT0(0):26"/>
+						<v:ud v:nameU="msvThemeColors" v:prompt="" v:val="VT0(0):26"/>
+						<v:ud v:nameU="msvThemeEffects" v:prompt="" v:val="VT0(0):26"/>
+						<v:ud v:nameU="CStyle" v:prompt="" v:val="VT0(10):26"/>
+						<v:ud v:nameU="HSide" v:prompt="" v:val="VT0(0):26"/>
+						<v:ud v:nameU="HSpan" v:prompt="" v:val="VT0(0):26"/>
+						<v:ud v:nameU="HAlign" v:prompt="" v:val="VT0(0):26"/>
+						<v:ud v:nameU="HorzAlign" v:prompt="" v:val="VT0(1):26"/>
+						<v:ud v:nameU="SquareCorners" v:prompt="" v:val="VT0(0):26"/>
+						<v:ud v:nameU="OffsetX10" v:prompt="" v:val="VT0(0.039370078740157):24"/>
+						<v:ud v:nameU="OffsetY10" v:prompt="" v:val="VT0(-0.039370078740157):24"/>
+					</v:userDefs>
+					<path d="M0 595.28 L42.52 595.28 L85.04 595.28 L85.04 405.35 L42.52 405.35 L0 405.35 L0 595.28 Z" class="st3"/>
+				</g>
+				<g id="shape41-20" v:mID="41" v:groupContext="groupContent" v:layerMember="0">
+					<path d="M0 595.28 L42.52 595.28 L85.04 595.28 L85.04 405.35 L42.52 405.35 L0 405.35 L0 595.28 Z" class="st4"/>
+				</g>
+			</g>
+			<g id="group43-23" transform="translate(0,-164.409)" v:mID="43" v:groupContext="group" v:layerMember="0">
+				<v:userDefs>
+					<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT4(Heading)"/>
+					<v:ud v:nameU="CStyle" v:prompt="" v:val="VT0(10):26"/>
+					<v:ud v:nameU="HSide" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="HSpan" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="HAlign" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="Hidden" v:prompt="" v:val="VT0(0):5"/>
+					<v:ud v:nameU="HorzAlign" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="Rounding" v:prompt="" v:val="VT0(0):1"/>
+					<v:ud v:nameU="SquareCorners" v:prompt="" v:val="VT0(3):26"/>
+					<v:ud v:nameU="Inset" v:prompt="" v:val="VT0(0):24"/>
+					<v:ud v:nameU="InsideRadius" v:prompt="" v:val="VT0(0):24"/>
+					<v:ud v:nameU="InsetXInt" v:prompt="" v:val="VT0(0):24"/>
+					<v:ud v:nameU="HTxtMargin" v:prompt="" v:val="VT0(0.059055118110236):24"/>
+					<v:ud v:nameU="HTxtWidth" v:prompt="" v:val="VT0(2.9527559055118):24"/>
+					<v:ud v:nameU="HLeft" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="HRight" v:prompt="" v:val="VT0(2.9527559055118):24"/>
+					<v:ud v:nameU="SquareCorners7" v:prompt="" v:val="VT0(3):26"/>
+					<v:ud v:nameU="Offset" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="Rounding8" v:prompt="" v:val="VT0(0.11811023622047):24"/>
+					<v:ud v:nameU="InsetX9" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="InsetY9" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="OffsetY11" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="OffsetY12" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="Width12" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="msvSDContainerHeadingEdge" v:prompt="" v:val="VT4(Bottom)"/>
+					<v:ud v:nameU="HLineVisible" v:prompt="" v:val="VT0(0):5"/>
+					<v:ud v:nameU="HFillVisible" v:prompt="" v:val="VT0(0):5"/>
+					<v:ud v:nameU="FillForegndIn" v:prompt="" v:val="VT5(#96afcf)"/>
+					<v:ud v:nameU="FillBkgndIn" v:prompt="" v:val="VT5(#c8d6e6)"/>
+					<v:ud v:nameU="BaseColor" v:prompt="" v:val="VT5(#c8d6e6)"/>
+					<v:ud v:nameU="FillPatternIn" v:prompt="" v:val="VT0(30):26"/>
+					<v:ud v:nameU="BackFillColor" v:prompt="" v:val="VT5(#96afcf)"/>
+					<v:ud v:nameU="BackLineColor" v:prompt="" v:val="VT5(#1f477d)"/>
+					<v:ud v:nameU="BackCharColor" v:prompt="" v:val="VT5(#000000)"/>
+					<v:ud v:nameU="DarkerColor" v:prompt="" v:val="VT5(#000000)"/>
+					<v:ud v:nameU="HTxtWidth" v:prompt="" v:val="VT0(1.1811023622047):1"/>
+					<v:ud v:nameU="HRight" v:prompt="" v:val="VT0(1.1811023622047):1"/>
+				</v:userDefs>
+				<title>Tabelle.43</title>
+				<desc>C14 inlet</desc>
+				<g id="shape44-24" v:mID="44" v:groupContext="shape" v:layerMember="0">
+					<title>Tabelle.44</title>
+					<v:userDefs>
+						<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT0(0):26"/>
+						<v:ud v:nameU="msvThemeColors" v:prompt="" v:val="VT0(0):26"/>
+						<v:ud v:nameU="msvThemeEffects" v:prompt="" v:val="VT0(0):26"/>
+						<v:ud v:nameU="CStyle" v:prompt="" v:val="VT0(10):26"/>
+						<v:ud v:nameU="Rounding" v:prompt="" v:val="VT0(0):1"/>
+						<v:ud v:nameU="SquareCorners" v:prompt="" v:val="VT0(3):26"/>
+						<v:ud v:nameU="HLeft" v:prompt="" v:val="VT0(0):26"/>
+						<v:ud v:nameU="HRight" v:prompt="" v:val="VT0(2.9527559055118):24"/>
+						<v:ud v:nameU="Hidden" v:prompt="" v:val="VT0(0):5"/>
+						<v:ud v:nameU="BowHeight7" v:prompt="" v:val="VT0(0.11811023622047):24"/>
+						<v:ud v:nameU="Offset7" v:prompt="" v:val="VT0(0.0052083333333333):3"/>
+						<v:ud v:nameU="AnchorPt7" v:prompt="" v:val="VT0(0.64439796587927):24"/>
+						<v:ud v:nameU="HSide" v:prompt="" v:val="VT0(0):26"/>
+						<v:ud v:nameU="HAlign" v:prompt="" v:val="VT0(0):26"/>
+						<v:ud v:nameU="HRight" v:prompt="" v:val="VT0(1.1811023622047):1"/>
+					</v:userDefs>
+				</g>
+				<g id="shape43-28" v:mID="43" v:groupContext="groupContent" v:layerMember="0">
+					<v:textBlock v:margins="rect(4,6,4,6)" v:tabSpace="42.5197"/>
+					<v:textRect cx="42.5197" cy="582.52" width="85.04" height="25.5118"/>
+					<text x="18.83" y="586.12" class="st2" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>C14 inlet</text>				</g>
+			</g>
+		</g>
+		<g id="group6-33" transform="translate(133.228,-443.622)" v:mID="6" v:groupContext="group" v:layerMember="1">
+			<v:custProps>
+				<v:cp v:nameU="Label" v:lbl="Label" v:prompt="" v:type="0" v:format="@" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1031" v:cal="0" v:val="VT4()"/>
+				<v:cp v:nameU="Label" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="0" v:cal="0" v:val="VT4(DPST1)"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visDescription"
+						v:val="VT4(Stellt einen zweipoligen, einseitigen Schalter dar. Klicken Sie mit der rechten Maustaste, um die Positionen für offen und geschlossen festzulegen.)"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				<v:ud v:nameU="Label" v:prompt="" v:val="VT4()"/>
+				<v:ud v:nameU="SolSH" v:prompt="" v:val="VT4({2EE3C7D2-E26E-4B72-9E9C-5170DDBF261A})"/>
+				<v:ud v:nameU="Label" v:prompt="" v:val="VT4(DPST1)"/>
+			</v:userDefs>
+			<title>DPST</title>
+			<g id="shape7-34" v:mID="7" v:groupContext="shape" v:layerMember="1" transform="translate(7.3701,-7.36271)">
+				<title>Tabelle.7</title>
+				<path d="M11.06 578.08 L11.06 573.16" class="st5"/>
+				<path d="M11.06 586.29 L11.06 581.36" class="st5"/>
+				<path d="M11.06 595.28 L11.06 590.35" class="st5"/>
+				<path d="M-0 573.15 L22.11 573.16" class="st5"/>
+				<path d="M22.11 595.28 L-0 595.26" class="st5"/>
+			</g>
+			<g id="shape8-41" v:mID="8" v:groupContext="shape" v:layerMember="1" transform="translate(0,-3.68429)">
+				<title>Tabelle.8</title>
+				<path d="M36.85 569.48 A3.68504 3.68504 0 1 1 29.48 569.48 A3.68504 3.68504 0 1 1 36.85 569.48" class="st6"/>
+				<path d="M36.85 591.59 A3.68504 3.68504 0 1 1 29.48 591.59 A3.68504 3.68504 0 1 1 36.85 591.59" class="st6"/>
+				<path d="M7.37 569.48 A3.68504 3.68504 0 1 1 0 569.48 A3.68504 3.68504 0 1 1 7.37 569.48" class="st6"/>
+				<path d="M7.37 591.59 A3.68504 3.68504 0 1 1 0 591.59 A3.68504 3.68504 0 1 1 7.37 591.59" class="st6"/>
+			</g>
+			<g id="shape6-47" v:mID="6" v:groupContext="groupContent" v:layerMember="1">
+				<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="34.0157" v:verticalAlign="0"/>
+				<v:textRect cx="18.4252" cy="602.277" width="30.12" height="14.0036"/>
+				<text x="5.5" y="605.28" class="st7" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>DPST1</text>			</g>
+		</g>
+		<g id="shape9-49" v:mID="9" v:groupContext="shape" v:layerMember="1" transform="translate(133.228,-364.252)">
+			<title>Gehäuse</title>
+			<v:custProps>
+				<v:cp v:nameU="Label" v:lbl="Label" v:prompt="" v:type="0" v:format="@" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1031" v:cal="0" v:val="VT4()"/>
+				<v:cp v:nameU="Label" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="0" v:cal="0" v:val="VT4(CH1)"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="Form" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visDescription" v:val="VT4(Stellt ein Chassis oder Gehäusemasse dar.)"/>
+				<v:ud v:nameU="Label" v:prompt="" v:val="VT4()"/>
+				<v:ud v:nameU="SolSH" v:prompt="" v:val="VT4({2EE3C7D2-E26E-4B72-9E9C-5170DDBF261A})"/>
+				<v:ud v:nameU="Label" v:prompt="" v:val="VT4(CH1)"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="34.0157" v:verticalAlign="0"/>
+			<v:textRect cx="18.4252" cy="602.277" width="20.9" height="14.0036"/>
+			<path d="M11.3 583.78 L36.49 583.78 L24.93 595.28 L21.83 595.28 L31.13 585.99 L23.22 585.99 L13.88 595.28 L10.72 595.28
+						 L20.08 585.99 L12.22 585.99 L3.03 595.28 L0 595.28 L11.3 583.78 Z" class="st8"/>
+			<path d="M22.11 558.43 L22.11 583.81" class="st5"/>
+			<text x="10.11" y="605.28" class="st7" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>CH1</text>		</g>
+		<g id="group10-53" transform="translate(48.189,-364.252)" v:mID="10" v:groupContext="group" v:layerMember="1">
+			<v:custProps>
+				<v:cp v:nameU="Label" v:lbl="Label" v:prompt="" v:type="0" v:format="@" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1031" v:cal="0" v:val="VT4()"/>
+				<v:cp v:nameU="Label" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="0" v:cal="0" v:val="VT4(GND1)"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visDescription" v:val="VT4(Stellt einen geerdeten Leiter dar.)"/>
+				<v:ud v:nameU="Label" v:prompt="" v:val="VT4()"/>
+				<v:ud v:nameU="SolSH" v:prompt="" v:val="VT4({2EE3C7D2-E26E-4B72-9E9C-5170DDBF261A})"/>
+				<v:ud v:nameU="Label" v:prompt="" v:val="VT4(GND1)"/>
+			</v:userDefs>
+			<title>Erde</title>
+			<g id="shape11-54" v:mID="11" v:groupContext="shape" v:layerMember="1" transform="translate(8.51982,-0.914748)">
+				<title>Tabelle.11</title>
+				<path d="M12.74 595.28 L7.08 595.28" class="st6"/>
+				<path d="M16.98 590.81 L2.83 590.81" class="st6"/>
+				<path d="M19.81 586.4 L-0 586.4" class="st6"/>
+			</g>
+			<g id="shape12-59" v:mID="12" v:groupContext="shape" v:layerMember="1" transform="translate(17.6882,-10.6866)">
+				<title>Tabelle.12</title>
+				<rect x="0" y="569.112" width="1.47402" height="26.1638" class="st8"/>
+				<rect x="0" y="569.112" width="1.47402" height="26.1638" class="st9"/>
+			</g>
+			<g id="shape10-62" v:mID="10" v:groupContext="groupContent" v:layerMember="1">
+				<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="34.0157" v:verticalAlign="0"/>
+				<v:textRect cx="45.4471" cy="576.85" width="28.25" height="14.0036"/>
+				<text x="33.46" y="579.85" class="st7" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>GND1</text>			</g>
+		</g>
+		<g id="shape13-64" v:mID="13" v:groupContext="shape" v:layerMember="1" transform="translate(48.189,-443.622)">
+			<title>Wechselstromquelle</title>
+			<v:custProps>
+				<v:cp v:nameU="Label" v:lbl="Label" v:prompt="" v:type="0" v:format="@" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1031" v:cal="0" v:val="VT4()"/>
+				<v:cp v:nameU="Label" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="0" v:cal="0" v:val="VT4(AC)"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="AT" v:prompt="Action toggle" v:val="VT0(0):26"/>
+				<v:ud v:nameU="LimitHgt" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visDescription" v:val="VT4(AC current or voltage source.)"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				<v:ud v:nameU="Label" v:prompt="" v:val="VT4()"/>
+				<v:ud v:nameU="SolSH" v:prompt="" v:val="VT4({2EE3C7D2-E26E-4B72-9E9C-5170DDBF261A})"/>
+				<v:ud v:nameU="Label" v:prompt="" v:val="VT4(AC)"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="34.0157"/>
+			<v:textRect cx="-2.16368" cy="576.85" width="15.39" height="14.0036"/>
+			<path d="M25.12 576.09 L28.07 576.09 C28.07 579.75 25.73 582.41 22.51 582.41 C19.44 582.41 16.95 579.91 16.95 576.85
+						 C16.95 575.41 15.78 574.24 14.34 574.24 C12.66 574.24 11.73 575.43 11.73 577.59 L8.78 577.59 C8.78 572.94
+						 11.78 571.29 14.34 571.29 C17.41 571.29 19.9 573.79 19.9 576.85 C19.9 578.29 21.07 579.46 22.51 579.46 C24.07
+						 579.46 25.12 578.11 25.12 576.09 Z" class="st8"/>
+			<path d="M18.43 565.06 L18.43 558.43" class="st5"/>
+			<path d="M18.43 595.28 L18.43 588.64" class="st5"/>
+			<path d="M30.22 576.85 A11.7921 11.7921 -180 1 0 6.63 576.85 A11.7921 11.7921 -180 1 0 30.22 576.85" class="st5"/>
+			<text x="-7.72" y="579.85" class="st7" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>AC</text>		</g>
+		<g id="group17-70" transform="translate(335.906,-279.291)" v:mID="17" v:groupContext="group" v:layerMember="1">
+			<v:custProps>
+				<v:cp v:nameU="SubType" v:lbl="Schaltertyp" v:type="1" v:format="Allgemein;Früh schließend;Spät schließend"
+						v:langID="1031" v:val="VT4(Allgemein)"/>
+				<v:cp v:nameU="View" v:lbl="Symboloption" v:type="1" v:format="Symbol 1;Symbol 2;Symbol 3" v:langID="1031"
+						v:val="VT4(Symbol 1)"/>
+				<v:cp v:nameU="Label" v:lbl="Label" v:prompt="" v:type="0" v:format="@" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1031" v:cal="0" v:val="VT4()"/>
+				<v:cp v:nameU="Label" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="0" v:cal="0" v:val="VT4(-K1)"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="Type" v:val="VT0(0):26"/>
+				<v:ud v:nameU="Alt" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visDescription" v:val="VT4(Schließkontakt)"/>
+				<v:ud v:nameU="Label" v:prompt="" v:val="VT4()"/>
+				<v:ud v:nameU="SolSH" v:prompt="" v:val="VT4({2EE3C7D2-E26E-4B72-9E9C-5170DDBF261A})"/>
+				<v:ud v:nameU="Label" v:prompt="" v:val="VT4(S(n/o)1)"/>
+			</v:userDefs>
+			<title>Schließkontakt</title>
+			<desc>-K1</desc>
+			<g id="shape18-71" v:mID="18" v:groupContext="shape" v:layerMember="1" transform="translate(2.78147,-5.62292E-06)">
+				<title>Tabelle.18</title>
+				<v:userDefs>
+					<v:ud v:nameU="Alt" v:val="VT0(0):26"/>
+				</v:userDefs>
+				<path d="M15.6 558.47 L15.6 568.09" class="st5"/>
+				<path d="M15.6 595.28 L15.6 585.65" class="st5"/>
+				<path d="M4.25 569.56 L15.6 585.65 L15.6 595.28" class="st5"/>
+			</g>
+			<g id="shape19-76" v:mID="19" v:groupContext="shape" v:layerMember="1" transform="translate(14.6996,-5.93661)">
+				<title>Tabelle.19</title>
+				<v:userDefs>
+					<v:ud v:nameU="Alt" v:val="VT0(0):26"/>
+				</v:userDefs>
+			</g>
+			<g id="shape20-78" v:mID="20" v:groupContext="shape" v:layerMember="1" transform="translate(-3.57187,3.57187)">
+				<title>Tabelle.20</title>
+			</g>
+			<g id="shape17-80" v:mID="17" v:groupContext="groupContent" v:layerMember="1">
+				<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="34.0157"/>
+				<v:textRect cx="0.566929" cy="582.803" width="17.59" height="14.0036"/>
+				<text x="-6.1" y="585.8" class="st7" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>-K1</text>			</g>
+		</g>
+		<g id="group21-82" transform="translate(265.039,-422.362)" v:mID="21" v:groupContext="group" v:layerMember="1">
+			<v:custProps>
+				<v:cp v:nameU="SubType" v:lbl="Schaltertyp" v:type="1" v:format="Allgemein;Früh öffnend;Spät öffnend"
+						v:langID="1031" v:val="VT4(Allgemein)"/>
+				<v:cp v:nameU="Alt" v:lbl="Symboloption" v:type="1" v:format="Symbol 1;Symbol 2;Symbol 3" v:langID="1031"
+						v:val="VT4(Symbol 1)"/>
+				<v:cp v:nameU="Label" v:lbl="Label" v:prompt="" v:type="0" v:format="@" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1031" v:cal="0" v:val="VT4()"/>
+				<v:cp v:nameU="Label" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="0" v:cal="0" v:val="VT4(S(n/c)1)"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="Type" v:val="VT0(0):26"/>
+				<v:ud v:nameU="Alt" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visDescription" v:val="VT4(Unterbrecherkontakt)"/>
+				<v:ud v:nameU="Label" v:prompt="" v:val="VT4()"/>
+				<v:ud v:nameU="SolSH" v:prompt="" v:val="VT4({2EE3C7D2-E26E-4B72-9E9C-5170DDBF261A})"/>
+				<v:ud v:nameU="Label" v:prompt="" v:val="VT4(S(n/c)1)"/>
+			</v:userDefs>
+			<title>Unterbrecherkontakt</title>
+			<g id="shape22-83" v:mID="22" v:groupContext="shape" v:layerMember="1">
+				<title>Tabelle.22</title>
+				<v:userDefs>
+					<v:ud v:nameU="Alt" v:val="VT0(0):26"/>
+					<v:ud v:nameU="Type" v:val="VT0(0):26"/>
+				</v:userDefs>
+				<path d="M18.38 568.09 L18.38 571.41 L26.81 571.41" class="st5"/>
+				<path d="M25.15 568.09 L18.38 585.76 L18.38 595.28" class="st5"/>
+				<path d="M18.38 568.09 L18.38 558.47" class="st5"/>
+			</g>
+			<g id="shape23-88" v:mID="23" v:groupContext="shape" v:layerMember="1" transform="translate(14.6996,-5.9366)">
+				<title>Tabelle.23</title>
+				<v:userDefs>
+					<v:ud v:nameU="Alt" v:val="VT0(0):26"/>
+					<v:ud v:nameU="Type" v:val="VT0(0):26"/>
+				</v:userDefs>
+			</g>
+			<g id="shape24-90" v:mID="24" v:groupContext="shape" v:layerMember="1" transform="translate(-4.28398,4.28472)">
+				<title>Tabelle.24</title>
+				<v:userDefs>
+					<v:ud v:nameU="Alt" v:val="VT0(0):26"/>
+				</v:userDefs>
+			</g>
+			<g id="shape21-92" v:mID="21" v:groupContext="groupContent" v:layerMember="1">
+				<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="34.0157"/>
+				<v:textRect cx="-7.45571" cy="576.85" width="33.34" height="14.0036"/>
+				<text x="-21.99" y="579.85" class="st7" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>S(n/c)1</text>			</g>
+		</g>
+		<g id="group25-94" transform="translate(392.598,-279.921)" v:mID="25" v:groupContext="group" v:layerMember="1">
+			<v:custProps>
+				<v:cp v:nameU="SubType" v:lbl="Schaltertyp" v:type="1" v:format="Allgemein;Früh schließend;Spät schließend"
+						v:langID="1031" v:val="VT4(Allgemein)"/>
+				<v:cp v:nameU="View" v:lbl="Symboloption" v:type="1" v:format="Symbol 1;Symbol 2;Symbol 3" v:langID="1031"
+						v:val="VT4(Symbol 1)"/>
+				<v:cp v:nameU="Label" v:lbl="Label" v:prompt="" v:type="0" v:format="@" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1031" v:cal="0" v:val="VT4()"/>
+				<v:cp v:nameU="Label" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="0" v:cal="0" v:val="VT4(-K1)"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="Type" v:val="VT0(0):26"/>
+				<v:ud v:nameU="Alt" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visDescription" v:val="VT4(Schließkontakt)"/>
+				<v:ud v:nameU="Label" v:prompt="" v:val="VT4()"/>
+				<v:ud v:nameU="SolSH" v:prompt="" v:val="VT4({2EE3C7D2-E26E-4B72-9E9C-5170DDBF261A})"/>
+				<v:ud v:nameU="Label" v:prompt="" v:val="VT4(S(n/o)2)"/>
+			</v:userDefs>
+			<title>Schließkontakt.25</title>
+			<desc>-K1</desc>
+			<g id="shape26-95" v:mID="26" v:groupContext="shape" v:layerMember="1" transform="translate(2.78147,-5.62292E-06)">
+				<title>Tabelle.26</title>
+				<v:userDefs>
+					<v:ud v:nameU="Alt" v:val="VT0(0):26"/>
+				</v:userDefs>
+				<path d="M15.6 558.47 L15.6 568.09" class="st5"/>
+				<path d="M15.6 595.28 L15.6 585.65" class="st5"/>
+				<path d="M4.25 569.56 L15.6 585.65 L15.6 595.28" class="st5"/>
+			</g>
+			<g id="shape27-100" v:mID="27" v:groupContext="shape" v:layerMember="1" transform="translate(14.6996,-5.93661)">
+				<title>Tabelle.27</title>
+				<v:userDefs>
+					<v:ud v:nameU="Alt" v:val="VT0(0):26"/>
+				</v:userDefs>
+			</g>
+			<g id="shape28-102" v:mID="28" v:groupContext="shape" v:layerMember="1" transform="translate(-3.57187,3.57187)">
+				<title>Tabelle.28</title>
+			</g>
+			<g id="shape25-104" v:mID="25" v:groupContext="groupContent" v:layerMember="1">
+				<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="34.0157"/>
+				<v:textRect cx="-0.566929" cy="583.37" width="17.59" height="14.0036"/>
+				<text x="-7.23" y="586.37" class="st7" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>-K1</text>			</g>
+		</g>
+		<g id="group29-106" transform="translate(265.039,-340.157)" v:mID="29" v:groupContext="group" v:layerMember="1">
+			<v:custProps>
+				<v:cp v:nameU="SubType" v:lbl="Schaltertyp" v:type="1" v:format="Allgemein;Früh schließend;Spät schließend"
+						v:langID="1031" v:val="VT4(Allgemein)"/>
+				<v:cp v:nameU="View" v:lbl="Symboloption" v:type="1" v:format="Symbol 1;Symbol 2;Symbol 3" v:langID="1031"
+						v:val="VT4(Symbol 1)"/>
+				<v:cp v:nameU="Label" v:lbl="Label" v:prompt="" v:type="0" v:format="@" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1031" v:cal="0" v:val="VT4()"/>
+				<v:cp v:nameU="Label" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="0" v:cal="0" v:val="VT4(S(n/o)1)"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="Type" v:val="VT0(0):26"/>
+				<v:ud v:nameU="Alt" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visDescription" v:val="VT4(Schließkontakt)"/>
+				<v:ud v:nameU="Label" v:prompt="" v:val="VT4()"/>
+				<v:ud v:nameU="SolSH" v:prompt="" v:val="VT4({2EE3C7D2-E26E-4B72-9E9C-5170DDBF261A})"/>
+				<v:ud v:nameU="Label" v:prompt="" v:val="VT4(S(n/o)3)"/>
+			</v:userDefs>
+			<title>Schließkontakt.29</title>
+			<desc>S(n/o)1</desc>
+			<g id="shape30-107" v:mID="30" v:groupContext="shape" v:layerMember="1" transform="translate(2.78147,-5.62292E-06)">
+				<title>Tabelle.30</title>
+				<v:userDefs>
+					<v:ud v:nameU="Alt" v:val="VT0(0):26"/>
+				</v:userDefs>
+				<path d="M15.6 558.47 L15.6 568.09" class="st5"/>
+				<path d="M15.6 595.28 L15.6 585.65" class="st5"/>
+				<path d="M4.25 569.56 L15.6 585.65 L15.6 595.28" class="st5"/>
+			</g>
+			<g id="shape31-112" v:mID="31" v:groupContext="shape" v:layerMember="1" transform="translate(14.6996,-5.93661)">
+				<title>Tabelle.31</title>
+				<v:userDefs>
+					<v:ud v:nameU="Alt" v:val="VT0(0):26"/>
+				</v:userDefs>
+			</g>
+			<g id="shape32-114" v:mID="32" v:groupContext="shape" v:layerMember="1" transform="translate(-3.57187,3.57187)">
+				<title>Tabelle.32</title>
+			</g>
+			<g id="shape29-116" v:mID="29" v:groupContext="groupContent" v:layerMember="1">
+				<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="34.0157"/>
+				<v:textRect cx="-18.4252" cy="576.85" width="34.39" height="14.0036"/>
+				<text x="-33.48" y="579.85" class="st7" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>S(n/o)1</text>			</g>
+		</g>
+		<g id="group45-118" transform="translate(257.953,-279.291)" v:mID="45" v:groupContext="group" v:layerMember="1">
+			<v:custProps>
+				<v:cp v:nameU="SubType" v:lbl="Relaistyp" v:type="1"
+						v:format="Wechselstrom;Magnetisch polarisiert;Anzugverzögerung;Abfallverzögerung;Allgemein;Schnellrelais;Mechanisch verriegelt;Permanent"
+						v:langID="1031" v:val="VT4(Wechselstrom)"/>
+				<v:cp v:nameU="Label" v:lbl="Label" v:prompt="" v:type="0" v:format="@" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1031" v:cal="0" v:val="VT4()"/>
+				<v:cp v:nameU="Label" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="0" v:cal="0" v:val="VT4(-K1)"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="Type" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visDescription" v:val="VT4(Verschiedene Relaistypen.)"/>
+				<v:ud v:nameU="Label" v:prompt="" v:val="VT4()"/>
+				<v:ud v:nameU="SolSH" v:prompt="" v:val="VT4({2EE3C7D2-E26E-4B72-9E9C-5170DDBF261A})"/>
+				<v:ud v:nameU="Label" v:prompt="" v:val="VT4(K1)"/>
+			</v:userDefs>
+			<title>Relais</title>
+			<desc>-</desc>
+			<g id="shape46-119" v:mID="46" v:groupContext="shape" v:layerMember="1" transform="translate(-5.52756,-7.73858)">
+				<title>Tabelle.46</title>
+				<path d="" class="st6"/>
+				<path d="M3.12 583.36 C3.18 581.78 4.21 580.52 5.47 580.52 C6.74 580.52 7.82 580.96 7.82 584.57 L7.82 584.61 C7.82
+							 588.06 8.91 588.66 10.18 588.66 C11.44 588.66 12.47 587.4 12.53 585.81" class="st6"/>
+				<path d="M15.76 573.9 L47.91 573.9 L47.91 595.28 L0 595.28 L0 573.9 L15.76 573.9 L15.76 595.28" class="st6"/>
+			</g>
+			<g id="shape45-124" v:mID="45" v:groupContext="groupContent" v:layerMember="1">
+				<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="34.0157" v:verticalAlign="0"/>
+				<v:textRect cx="14.1732" cy="595.276" width="17.59" height="14.0036"/>
+				<text x="7.51" y="598.27" class="st7" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>-K1</text>			</g>
+		</g>
+		<g id="shape50-126" v:mID="50" v:groupContext="shape" v:layerMember="1" transform="translate(-170.079,172.913) rotate(-90)">
+			<title>Lampe 2</title>
+			<v:custProps>
+				<v:cp v:nameU="Label" v:lbl="Beschriftung" v:type="0" v:format="@" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1031" v:val="VT4()"/>
+				<v:cp v:nameU="Label" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="0" v:cal="0" v:val="VT4(Lamp1)"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="Type" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visDescription" v:val="VT4(Stellt eine Standard- oder eine Signallampe dar.)"/>
+				<v:ud v:nameU="Label" v:prompt="" v:val="VT4()"/>
+				<v:ud v:nameU="SolSH" v:prompt="" v:val="VT4({2EE3C7D2-E26E-4B72-9E9C-5170DDBF261A})"/>
+				<v:ud v:nameU="Label" v:prompt="" v:val="VT4(Lamp1)"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="34.0157" v:verticalAlign="0"/>
+			<v:textRect cx="17.0079" cy="551.339" width="31.57" height="14.0036" transform="rotate(90)"/>
+			<path d="M11.36 590.42 C13.27 591.98 15.7 592.92 18.35 592.92 C21 592.92 23.43 591.98 25.33 590.42 L18.35 583.43 L11.36
+						 590.42 ZM9.8 574.87 C8.24 576.78 7.3 579.21 7.3 581.86 C7.3 584.51 8.24 586.95 9.8 588.85 L16.79 581.86
+						 L9.8 574.87 ZM25.33 573.31 C23.43 571.75 21 570.81 18.35 570.81 C15.7 570.81 13.27 571.75 11.36 573.31 L18.35
+						 580.3 L25.33 573.31 ZM19.91 581.86 L26.9 588.85 C28.46 586.95 29.39 584.51 29.39 581.86 C29.39 579.21 28.46
+						 576.78 26.9 574.87 L19.91 581.86 ZM18.35 568.6 C25.66 568.6 31.6 574.55 31.6 581.86 C31.6 589.18 25.66 595.13
+						 18.35 595.13 C11.04 595.13 5.09 589.18 5.09 581.86 C5.09 574.55 11.04 568.6 18.35 568.6 Z" class="st8"/>
+			<path d="M-0 581.86 L7.3 581.86" class="st5"/>
+			<path d="M29.39 581.86 L36.76 581.86" class="st5"/>
+			<text x="537.69" y="-14.01" transform="rotate(90)" class="st7" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>Lamp1</text>		</g>
+		<g id="shape51-131" v:mID="51" v:groupContext="shape" v:layerMember="2" transform="translate(66.6142,-483.874)">
+			<title>Dynamischer Verbinder</title>
+			<path d="M0 598.68 L0 591.59 L25.51 591.59 L25.51 606.05 L70.3 606.05" class="st10"/>
+		</g>
+		<g id="shape52-134" v:mID="52" v:groupContext="shape" v:layerMember="2" transform="translate(66.6142,-440.22)">
+			<title>Dynamischer Verbinder.52</title>
+			<path d="M0 591.87 L0 598.96 L25.51 598.96 L25.51 584.5 L70.3 584.5" class="st10"/>
+		</g>
+		<g id="shape53-137" v:mID="53" v:groupContext="shape" v:layerMember="2" transform="translate(66.6142,-394.016)">
+			<title>Dynamischer Verbinder.53</title>
+			<path d="M0 588.19 L0 577.56 L88.72 577.56 L88.72 588.19" class="st10"/>
+		</g>
+		<g id="shape59-140" v:mID="59" v:groupContext="shape" v:layerMember="2" transform="translate(354.331,-316.142)">
+			<title>Dynamischer Verbinder.59</title>
+			<path d="M0 595.28 L0 511.02 L-70.87 511.02 L-70.87 489.06" class="st10"/>
+		</g>
+		<g id="shape60-143" v:mID="60" v:groupContext="shape" v:layerMember="2" transform="translate(276.378,-377.008)">
+			<title>Dynamischer Verbinder.60</title>
+			<path d="M7.09 595.28 L7.09 557.01" class="st10"/>
+		</g>
+		<g id="shape65-146" v:mID="65" v:groupContext="shape" v:layerMember="2" transform="translate(411.024,-279.921)">
+			<title>Dynamischer Verbinder.65</title>
+			<path d="M0 595.28 L0 628.58 L-219.69 628.58 L-219.69 424.2 L-244.63 424.2" class="st10"/>
+		</g>
+		<g id="shape66-149" v:mID="66" v:groupContext="shape" v:layerMember="2" transform="translate(404.317,-316.772)">
+			<title>Dynamischer Verbinder.66</title>
+			<path d="M6.71 595.28 L6.71 584.65 L7.47 584.65 L7.47 489.69" class="st10"/>
+		</g>
+		<g id="shape67-152" v:mID="67" v:groupContext="shape" v:layerMember="2" transform="translate(411.783,-466.299)">
+			<title>Dynamischer Verbinder.67</title>
+			<path d="M0 602.36 L0 579.69 L-128.32 579.69 L-128.32 602.36" class="st10"/>
+		</g>
+		<g id="shape68-155" v:mID="68" v:groupContext="shape" v:layerMember="2" transform="translate(405.548,-304.381)">
+			<title>Dynamischer Verbinder.68</title>
+			<path d="M0 602.05 L-23.58 602.05 L-23.58 602.68 L-56.69 602.68" class="st11"/>
+		</g>
+		<g id="shape70-158" v:mID="70" v:groupContext="shape" v:layerMember="2" transform="translate(348.855,-289.907)">
+			<title>Dynamischer Verbinder.70</title>
+			<path d="M0 588.2 L-23.58 588.2 L-23.58 588.17 L-48.38 588.17" class="st11"/>
+		</g>
+		<g id="shape73-161" v:mID="73" v:groupContext="shape" transform="translate(287.717,-306.142)">
+			<title>Tabelle.73</title>
+			<desc>A1</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="9.2126" cy="585.276" width="18.43" height="20"/>
+			<rect x="0" y="575.276" width="18.4252" height="20" class="st12"/>
+			<text x="4.87" y="587.68" class="st13" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>A1</text>		</g>
+		<g id="shape74-164" v:mID="74" v:groupContext="shape" transform="translate(287.717,-269.291)">
+			<title>Tabelle.74</title>
+			<desc>A2</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="9.2126" cy="585.276" width="18.43" height="20"/>
+			<rect x="0" y="575.276" width="18.4252" height="20" class="st12"/>
+			<text x="4.87" y="587.68" class="st13" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>A2</text>		</g>
+		<g id="shape76-167" v:mID="76" v:groupContext="shape" transform="translate(354.331,-307.638)">
+			<title>Tabelle.76</title>
+			<desc>13</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="9.2126" cy="585.276" width="18.43" height="20"/>
+			<rect x="0" y="575.276" width="18.4252" height="20" class="st12"/>
+			<text x="5.16" y="587.68" class="st13" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>13</text>		</g>
+		<g id="shape80-170" v:mID="80" v:groupContext="shape" transform="translate(354.331,-269.291)">
+			<title>Tabelle.80</title>
+			<desc>14</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="9.2126" cy="585.276" width="18.43" height="20"/>
+			<rect x="0" y="575.276" width="18.4252" height="20" class="st12"/>
+			<text x="5.16" y="587.68" class="st13" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>14</text>		</g>
+		<g id="shape81-173" v:mID="81" v:groupContext="shape" transform="translate(411.024,-305.354)">
+			<title>Tabelle.81</title>
+			<desc>1</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="9.2126" cy="585.276" width="18.43" height="20"/>
+			<rect x="0" y="575.276" width="18.4252" height="20" class="st12"/>
+			<text x="7.19" y="587.68" class="st13" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>1</text>		</g>
+		<g id="shape82-176" v:mID="82" v:groupContext="shape" transform="translate(411.024,-269.921)">
+			<title>Tabelle.82</title>
+			<desc>2</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="9.2126" cy="585.276" width="18.43" height="20"/>
+			<rect x="0" y="575.276" width="18.4252" height="20" class="st12"/>
+			<text x="7.19" y="587.68" class="st13" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>2</text>		</g>
+		<g id="group110-179" transform="translate(540.283,-422.362)" v:mID="110" v:groupContext="group" v:layerMember="1">
+			<v:custProps>
+				<v:cp v:nameU="Label" v:lbl="Label" v:prompt="" v:type="0" v:format="@" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1031" v:cal="0" v:val="VT4()"/>
+				<v:cp v:nameU="Label" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="0" v:cal="0" v:val="VT4(SMPS)"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visDescription"
+						v:val="VT4(Represents a specialized or rare component. Type text to identify component.)"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				<v:ud v:nameU="Form" v:val="VT0(0):26"/>
+				<v:ud v:nameU="Label" v:prompt="" v:val="VT4()"/>
+				<v:ud v:nameU="SolSH" v:prompt="" v:val="VT4({2EE3C7D2-E26E-4B72-9E9C-5170DDBF261A})"/>
+				<v:ud v:nameU="Label" v:prompt="" v:val="VT4(GC2)"/>
+			</v:userDefs>
+			<title>Allgem. Komponente</title>
+			<desc>SMPS</desc>
+			<g id="shape111-180" v:mID="111" v:groupContext="shape" v:layerMember="1" transform="translate(12.5877,-14.5038)">
+				<title>Tabelle.111</title>
+				<desc>Z</desc>
+				<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+				<v:textRect cx="5.83748" cy="587.669" width="11.68" height="15.2128"/>
+				<rect x="0" y="580.063" width="11.675" height="15.2128" class="st14"/>
+				<text x="1.52" y="597.65" class="st15" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>Z</text>			</g>
+			<g id="shape112-183" v:mID="112" v:groupContext="shape" v:layerMember="1">
+				<title>Tabelle.112</title>
+				<path d="M0.15 595.13 L0.15 558.57 L36.7 558.57 L36.7 595.13 L0.15 595.13" class="st16"/>
+			</g>
+			<g id="shape110-186" v:mID="110" v:groupContext="groupContent" v:layerMember="1">
+				<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="34.0157"/>
+				<v:textRect cx="18.4252" cy="602.277" width="27.17" height="14.0036"/>
+				<text x="6.97" y="605.28" class="st7" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>SMPS</text>			</g>
+		</g>
+		<g id="shape116-188" v:mID="116" v:groupContext="shape" v:layerMember="2" transform="translate(540.431,-445.748)">
+			<title>Dynamischer Verbinder.116</title>
+			<path d="M0 594.57 L-82.33 594.57 L-82.33 559.13 L-128.65 559.13 L-128.65 581.81" class="st10"/>
+		</g>
+		<g id="shape117-191" v:mID="117" v:groupContext="shape" v:layerMember="2" transform="translate(540.431,-435.827)">
+			<title>Dynamischer Verbinder.117</title>
+			<path d="M0 595.98 L-82.84 595.98 L-82.84 615.83 L-128.65 615.83 L-128.65 608.74" class="st10"/>
+		</g>
+		<g id="group121-194" transform="translate(655.37,-422.362)" v:mID="121" v:groupContext="group" v:layerMember="1">
+			<v:custProps>
+				<v:cp v:nameU="Label" v:lbl="Label" v:prompt="" v:type="0" v:format="@" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1031" v:cal="0" v:val="VT4()"/>
+				<v:cp v:nameU="Label" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="0" v:cal="0" v:val="VT4(ZVS driver)"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visDescription"
+						v:val="VT4(Represents a specialized or rare component. Type text to identify component.)"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				<v:ud v:nameU="Form" v:val="VT0(0):26"/>
+				<v:ud v:nameU="Label" v:prompt="" v:val="VT4()"/>
+				<v:ud v:nameU="SolSH" v:prompt="" v:val="VT4({2EE3C7D2-E26E-4B72-9E9C-5170DDBF261A})"/>
+				<v:ud v:nameU="Label" v:prompt="" v:val="VT4(GC5)"/>
+			</v:userDefs>
+			<title>Allgem. Komponente.121</title>
+			<desc>ZVS driver</desc>
+			<g id="shape122-195" v:mID="122" v:groupContext="shape" v:layerMember="1" transform="translate(12.5877,-14.5038)">
+				<title>Tabelle.122</title>
+				<desc>Z</desc>
+				<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+				<v:textRect cx="5.83748" cy="587.669" width="11.68" height="15.2128"/>
+				<rect x="0" y="580.063" width="11.675" height="15.2128" class="st14"/>
+				<text x="1.52" y="597.65" class="st15" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>Z</text>			</g>
+			<g id="shape123-198" v:mID="123" v:groupContext="shape" v:layerMember="1">
+				<title>Tabelle.123</title>
+				<path d="M0.15 595.13 L0.15 558.57 L36.7 558.57 L36.7 595.13 L0.15 595.13" class="st16"/>
+			</g>
+			<g id="shape121-201" v:mID="121" v:groupContext="groupContent" v:layerMember="1">
+				<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="34.0157"/>
+				<v:textRect cx="18.4252" cy="602.277" width="45.49" height="14.0036"/>
+				<text x="-2.19" y="605.28" class="st7" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>ZVS driver</text>			</g>
+		</g>
+		<g id="shape124-203" v:mID="124" v:groupContext="shape" v:layerMember="2" transform="translate(576.986,-439.37)">
+			<title>Dynamischer Verbinder.124</title>
+			<path d="M0 588.19 L78.53 588.19" class="st10"/>
+		</g>
+		<g id="shape125-206" v:mID="125" v:groupContext="shape" v:layerMember="2" transform="translate(576.986,-428.031)">
+			<title>Dynamischer Verbinder.125</title>
+			<path d="M0 588.19 L78.53 588.19" class="st10"/>
+		</g>
+		<g id="shape126-209" v:mID="126" v:groupContext="shape" transform="translate(496.063,-447.717)">
+			<title>Tabelle.126</title>
+			<desc>AC 230V</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="21.5433" cy="585.276" width="43.09" height="20"/>
+			<rect x="0" y="575.276" width="43.0866" height="20" class="st12"/>
+			<text x="4.41" y="588.28" class="st7" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>AC 230V</text>		</g>
+		<g id="shape127-212" v:mID="127" v:groupContext="shape" transform="translate(574.299,-447.717)">
+			<title>Tabelle.127</title>
+			<desc>DC 24V</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="21.5433" cy="585.276" width="43.09" height="20"/>
+			<rect x="0" y="575.276" width="43.0866" height="20" class="st12"/>
+			<text x="6.77" y="588.28" class="st7" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>DC 24V</text>		</g>
+		<g id="shape128-215" v:mID="128" v:groupContext="shape" v:layerMember="1" transform="translate(729.548,-426.614)">
+			<title>Transformator</title>
+			<v:custProps>
+				<v:cp v:nameU="SubType" v:lbl="Kern" v:type="1" v:format="Luftkern;Magnetkern" v:langID="1031"
+						v:val="VT4(Luftkern)"/>
+				<v:cp v:nameU="SubType2" v:lbl="Regulierbar" v:type="1"
+						v:format="Keine;Eine Wicklung;Beide Wicklungen;Primär/Sekundär gemeinsam" v:langID="1031"
+						v:val="VT4(Keine)"/>
+				<v:cp v:nameU="Label" v:lbl="Beschriftung" v:type="0" v:format="@" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1031" v:val="VT4()"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="CoreType" v:val="VT0(0):26"/>
+				<v:ud v:nameU="Adjustability" v:val="VT0(0):26"/>
+				<v:ud v:nameU="CH" v:val="VT0(5):26"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visDescription"
+						v:val="VT4(Transformator. Klicken Sie mit der rechten Maustaste, um Eigenschaften festzulegen.)"/>
+			</v:userDefs>
+			<path d="M28.35 566.93 L21.26 566.93 A3.5433 3.5433 -180 0 0 17.72 570.47 A3.5433 3.5433 -180 0 0 21.26 574.02 A3.5433
+						 3.5433 -180 0 0 17.72 577.56 A3.5433 3.5433 -180 0 0 21.26 581.1 A3.5433 3.5433 -180 0 0 17.72 584.65 A3.5433
+						 3.5433 -180 0 0 21.26 588.19 A3.5433 3.5433 -180 0 0 17.72 591.73 A3.5433 3.5433 -180 0 0 21.26 595.28 L28.35
+						 595.28" class="st17"/>
+			<path d="M0 566.93 L7.09 566.93 A3.5433 3.5433 0 0 1 10.63 570.47 A3.5433 3.5433 0 0 1 7.09 574.02 A3.5433 3.5433 0 0
+						 1 10.63 577.56 A3.5433 3.5433 0 0 1 7.09 581.1 A3.5433 3.5433 0 0 1 10.63 584.65 A3.5433 3.5433 0 0 1 7.09
+						 588.19 A3.5433 3.5433 0 0 1 10.63 591.73 A3.5433 3.5433 0 0 1 7.09 595.28 L0 595.28" class="st17"/>
+		</g>
+		<g id="shape129-219" v:mID="129" v:groupContext="shape" v:layerMember="1" transform="translate(756.85,-364.252)">
+			<title>Gehäuse.129</title>
+			<v:custProps>
+				<v:cp v:nameU="Label" v:lbl="Label" v:prompt="" v:type="0" v:format="@" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1031" v:cal="0" v:val="VT4()"/>
+				<v:cp v:nameU="Label" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="0" v:cal="0" v:val="VT4(CH2)"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="Form" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visDescription" v:val="VT4(Stellt ein Chassis oder Gehäusemasse dar.)"/>
+				<v:ud v:nameU="Label" v:prompt="" v:val="VT4()"/>
+				<v:ud v:nameU="SolSH" v:prompt="" v:val="VT4({2EE3C7D2-E26E-4B72-9E9C-5170DDBF261A})"/>
+				<v:ud v:nameU="Label" v:prompt="" v:val="VT4(CH2)"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="34.0157" v:verticalAlign="0"/>
+			<v:textRect cx="18.4252" cy="602.277" width="20.9" height="14.0036"/>
+			<path d="M11.3 583.78 L36.49 583.78 L24.93 595.28 L21.83 595.28 L31.13 585.99 L23.22 585.99 L13.88 595.28 L10.72 595.28
+						 L20.08 585.99 L12.22 585.99 L3.03 595.28 L0 595.28 L11.3 583.78 Z" class="st8"/>
+			<path d="M22.11 558.43 L22.11 583.81" class="st5"/>
+			<text x="10.11" y="605.28" class="st7" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>CH2</text>		</g>
+		<g id="shape130-223" v:mID="130" v:groupContext="shape" v:layerMember="1"
+				transform="translate(187.087,132.781) rotate(-90)">
+			<title>Kabelabschluss</title>
+			<desc>HV out</desc>
+			<v:custProps>
+				<v:cp v:nameU="Label" v:lbl="Beschriftung" v:type="0" v:format="@" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1031" v:val="VT4()"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="AT" v:prompt="Action toggle" v:val="VT0(0):26"/>
+				<v:ud v:nameU="CH" v:val="VT0(5):26"/>
+				<v:ud v:nameU="Alt" v:val="VT0(1):26"/>
+				<v:ud v:nameU="Limit" v:val="VT0(0):5"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visDescription"
+						v:val="VT4(Kabelabschluss, Symbol für einen Leitungsabschluss. Für vollständiges Symbol klicken Sie mit der rechten Maustaste.)"/>
+				<v:ud v:nameU="CH" v:prompt="" v:val="VT0(0):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="12.3083" cy="606.614" width="29.28" height="12.8036" transform="rotate(90)"/>
+			<path d="M17.57 595.28 L24.66 588.19 L17.57 581.1 L17.57 595.28 Z" class="st18"/>
+			<path d="M0 588.19 L28.35 588.19" class="st17"/>
+			<path d="M17.57 595.28 L24.66 588.19 L17.57 581.1 L17.57 595.28" class="st17"/>
+			<path d="M14.17 588.19 L28.35 588.19" class="st17"/>
+			<text x="594" y="-9.61" transform="rotate(90)" class="st19" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>HV out</text>		</g>
+		<g id="shape131-229" v:mID="131" v:groupContext="shape" v:layerMember="2" transform="translate(692.073,-443.622)">
+			<title>Dynamischer Verbinder.131</title>
+			<path d="M0 592.44 L10.78 592.44 L10.78 583.94 L37.48 583.94" class="st10"/>
+		</g>
+		<g id="shape132-232" v:mID="132" v:groupContext="shape" v:layerMember="2" transform="translate(692.073,-437.953)">
+			<title>Dynamischer Verbinder.132</title>
+			<path d="M0 598.11 L10.78 598.11 L10.78 606.61 L37.48 606.61" class="st10"/>
+		</g>
+		<g id="shape133-235" v:mID="133" v:groupContext="shape" v:layerMember="2" transform="translate(757.895,-451.641)">
+			<title>Dynamischer Verbinder.133</title>
+			<path d="M0 591.96 L17.38 591.96 L17.38 584.42" class="st10"/>
+		</g>
+		<g id="shape134-238" v:mID="134" v:groupContext="shape" v:layerMember="2" transform="translate(757.895,-426.614)">
+			<title>Dynamischer Verbinder.134</title>
+			<path d="M0 595.28 L21.07 595.28 L21.07 620.79" class="st10"/>
+		</g>
+		<g id="group135-241" transform="translate(790.866,94.9606) rotate(90)" v:mID="135" v:groupContext="group" v:layerMember="1">
+			<v:custProps>
+				<v:cp v:nameU="SubType" v:lbl="Schaltertyp" v:type="1" v:format="Allgemein;Luft;Wechselstrom" v:langID="1031"
+						v:val="VT4(Allgemein)"/>
+				<v:cp v:nameU="Label" v:lbl="Label" v:prompt="" v:type="0" v:format="@" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1031" v:cal="0" v:val="VT4()"/>
+				<v:cp v:nameU="Label" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="0" v:cal="0" v:val="VT4(CB1)"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="Alt" v:val="VT0(1):5"/>
+				<v:ud v:nameU="CB" v:val="VT0(0):5"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visDescription" v:val="VT4(Schaltkreisunterbrecher)"/>
+				<v:ud v:nameU="Type" v:val="VT0(0):26"/>
+				<v:ud v:nameU="Label" v:prompt="" v:val="VT4()"/>
+				<v:ud v:nameU="SolSH" v:prompt="" v:val="VT4({2EE3C7D2-E26E-4B72-9E9C-5170DDBF261A})"/>
+				<v:ud v:nameU="Label" v:prompt="" v:val="VT4(CB1)"/>
+			</v:userDefs>
+			<title>Schaltkreisunterbrecher</title>
+			<g id="shape136-242" v:mID="136" v:groupContext="shape" v:layerMember="1" transform="translate(11.1207,-4.79055)">
+				<title>Tabelle.136</title>
+			</g>
+			<g id="shape137-244" v:mID="137" v:groupContext="shape" v:layerMember="1" transform="translate(14.6996,-21.2939)">
+				<title>Tabelle.137</title>
+				<path d="M7.37 587.91 L0 595.28" class="st6"/>
+				<path d="M0 587.91 L7.37 595.28" class="st6"/>
+			</g>
+			<g id="shape138-248" v:mID="138" v:groupContext="shape" v:layerMember="1" transform="translate(7.69289,-1.53225E-06)">
+				<title>Tabelle.138</title>
+				<path d="M10.73 558.43 L10.73 566.61 L10.73 570.22" class="st5"/>
+				<path d="M10.73 584.12 L10.73 587.13 L10.73 595.28" class="st5"/>
+				<path d="M0 570.22 L10.73 584.18 L10.73 587.13" class="st5"/>
+			</g>
+			<g id="shape135-253" v:mID="135" v:groupContext="groupContent" v:layerMember="1">
+				<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="34.0157" v:verticalAlign="0"/>
+				<v:textRect cx="30.9546" cy="576.85" width="20.11" height="14.0036" transform="rotate(-90)"/>
+				<text x="-584.77" y="33.95" transform="rotate(-90)" class="st7" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>CB1</text>			</g>
+		</g>
+		<g id="shape139-255" v:mID="139" v:groupContext="shape" v:layerMember="2" transform="translate(166.394,-470.409)">
+			<title>Dynamischer Verbinder.139</title>
+			<path d="M0 592.58 L14.31 592.58 L14.31 583.8 L29.2 583.8" class="st10"/>
+		</g>
+		<g id="shape140-258" v:mID="140" v:groupContext="shape" v:layerMember="2" transform="translate(232.441,-481.89)">
+			<title>Dynamischer Verbinder.140</title>
+			<path d="M0 595.28 L51.02 595.28 L51.02 617.95" class="st10"/>
+		</g>
+		<g id="shape141-261" v:mID="141" v:groupContext="shape" v:layerMember="2" transform="translate(276.52,-340.157)">
+			<title>Dynamischer Verbinder.141</title>
+			<path d="M6.94 595.28 L6.94 600.59 L7.23 600.59 L7.23 627.03" class="st10"/>
+		</g>
+		<g id="shape142-264" v:mID="142" v:groupContext="shape" v:layerMember="2" transform="translate(283.748,-308.403)">
+			<title>Dynamischer Verbinder.142</title>
+			<path d="M0 595.28 L0 576.91 L41.53 576.91 L41.53 635.02 L70.58 635.02 L70.58 624.39" class="st10"/>
+		</g>
+		<g id="shape143-267" v:mID="143" v:groupContext="shape" v:layerMember="2" transform="translate(283.748,-287.03)">
+			<title>Dynamischer Verbinder.143</title>
+			<path d="M0 595.28 L0 635.69 L-92.41 635.69 L-92.41 431.31 L-117.35 431.31" class="st10"/>
+		</g>
+	</g>
+</svg>
