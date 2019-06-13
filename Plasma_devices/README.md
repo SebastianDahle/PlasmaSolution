@@ -29,5 +29,6 @@ TODO
 
 ## Gliding Arc Jet
 
-*long and short Version*
+*long and short version*
+
 TODO
