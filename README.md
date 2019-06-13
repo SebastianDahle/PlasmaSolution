@@ -17,11 +17,12 @@ A working plasma setup requires two essential parts:
 
 This repository currently includes constructions for both parts, that can be combined as indicated in the following table:
 
-| [HV_power_supplies](HV_power_supplies/) | [Plasma_devices](Plasma_devices/) | adjustable Surface Barrier Discharge | mini-SBD | mini-DBD-Jet |
-|-------------------------|---:|:---:|:---:|:---:|
-|  Zero Voltage Switching |    |  X  |  X  |  X  |
-|  mini-Flyback (AC/DC)   |    |  -  |  ?  |  AC |
-|  Cockcroft-Walton       |    |  -  |  -  |  -  |
+| [Plasma_devices](Plasma_devices/) | adjustable Surface Barrier Discharge | mini-SBD | mini-DBD-Jet |
+|-------------------------|:---:|:---:|:---:|
+| **[HV_power_supplies](HV_power_supplies/)** | | |
+|  Zero Voltage Switching |  X  |  X  |  X  |
+|  mini-Flyback (AC/DC)   |  -  |  ?  |  AC |
+|  Cockcroft-Walton       |  -  |  -  |  -  |
 
 ## Getting Started
 
