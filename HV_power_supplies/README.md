@@ -21,6 +21,7 @@ TODO
 
 ## [Mini-Flyback](HV_power_supplies/ZVS-driver/)
 
+*AC and DC version*
 TODO
 
 ## [Cockcroft-Walton generator](HV_power_supplies/Cockcroft-Walton/)
