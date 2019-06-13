@@ -13,7 +13,7 @@ The following table provides an overview on the available constructions includin
 | Zero Voltage Switching |  AC  |  15 kV max      |  300 W max | USB+BT controlled; internal oscilloscope |
 | mini-Flyback           |  AC  |  15 kV max      |   70 W max | Cheap & simple |
 |                        |  DC  |  30 kV max      |   70 W max | Cheap & simple |
-| Cockcroft-Walton       |  DC  | 2.8 kV / module |   1 kW max | Easy scalable  |
+| Cockcroft-Walton       |  DC  | 2.8 kV / module |  500 W max | Easy scalable  |
 
 ## [Zero Voltage Switching](HV_power_supplies/mini-Flyback/)
 
