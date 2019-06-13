@@ -9,10 +9,24 @@ The equipment and methodology developed in the PlasmaSolution project shall be m
 
 **!! Dealing with plasma involves using high voltages. Please make sure you are familiar with all safety instructions and necessary practices!**
 
+## Overview
+
+A working plasma setup requires two essential parts:
+* A [power supply](HV_power_supplies/) that delivers the required electrical energy, these are located at [HV_power_supplies/](HV_power_supplies/).
+* A [plasma reactor](Plasma_devices/) as mechanical part, where the plasma is ignited, these are located at [Plasma_devices/](Plasma_devices/)
+
+This repository currently includes constructions for both parts, that can be combined as indicated in the following table:
+
+| [HV_power_supplies](HV_power_supplies/) | [Plasma_devices](Plasma_devices/) | adjustable Surface Barrier Discharge | mini-SBD | mini-DBD-Jet |
+|-------------------------|---:|:---:|:---:|:---:|
+|  Zero Voltage Switching |    |  X  |  X  |  X  |
+|  mini-Flyback (AC/DC)   |    |  -  |  ?  |  AC |
+|  Cockcroft-Walton       |    |  -  |  -  |  -  |
+
 ## Getting Started
 
 * [SolidWorks](https://www.solidworks.com/) - The CAD software used for mechanical constructions.
-* All constructions are provided openly accessible as STEP and PDF files.
+  * All constructions are provided openly accessible as STEP and PDF files.
   * Free software is available to view exported 3D STEP files, such as [STP Viewer](https://stpviewer.com/).
   * A free trial version of SolidWorks is available via their [website](https://www.solidworks.com/solution/job-functions/students).
 * [KiCad EDA](kicad-pcb.org/download/) - Open source software used to develop circuits and PCB layouts.
