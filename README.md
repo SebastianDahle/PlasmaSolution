@@ -36,9 +36,9 @@ This repository currently includes constructions for both parts, that can be com
 * [MS Visio](https://products.office.com/visio/) - The flow chart software for wiring plans.
   * All wiring plans are provided openly accessible as SVG and PDF files.
   * A free viewer for original proprietory files is availabe from [Microsoft](https://www.microsoft.com/download/details.aspx?id=35811).
-* [MS Excel](https://products.office.com/excel/) - Used for tables and lists, whenever markup-files are less suited.
+* [MS Excel](https://products.office.com/excel/) - Used for tables and lists, whenever markdown files are less suited.
   * All charts, tables, and lists are exported as CSV and PDF.
-* [MS Word](https://products.office.com/word/) - Used for instructions and publications, whenever markup-files are less suited.
+* [MS Word](https://products.office.com/word/) - Used for instructions and publications, whenever markdown files are less suited.
   * All documents are exported to PDF.
 
 ## Contributing
