@@ -8,11 +8,11 @@ The housing for the mini-Flyback consists of a plywood bottom and top plate and 
 It is recommended to screw the top plywood plate onto the columns to provide easy access. The bottom plate can be glued using standard white wood glue, thus providing better stability. No further fixing is required for the plexiglas plates. Optionally, felt gliders can be included under the bottom plywood plate.
 
 ## Technical drawings of wooden components for printout
-[Dimensions wood plates (2x)](https://github.com/SebastianDahle/PlasmaSolution/blob/master/HV_power_supplies/mini-Flyback/housing/wood%20plate.PDF)
-[Dimensions wood columns (4x)](https://github.com/SebastianDahle/PlasmaSolution/blob/master/HV_power_supplies/mini-Flyback/housing/wood%20column.PDF)
+* [Dimensions wood plates (2x)](https://github.com/SebastianDahle/PlasmaSolution/blob/master/HV_power_supplies/mini-Flyback/housing/wood%20plate.PDF)
+* [Dimensions wood columns (4x)](https://github.com/SebastianDahle/PlasmaSolution/blob/master/HV_power_supplies/mini-Flyback/housing/wood%20column.PDF)
 
 ## DXF files for laser cutting the plexiglas
-[Plexiglas front plate (1x)](https://github.com/SebastianDahle/PlasmaSolution/blob/master/HV_power_supplies/mini-Flyback/housing/plexi%20front.DXF)
-[Plexiglas back plate (1x)](https://github.com/SebastianDahle/PlasmaSolution/blob/master/HV_power_supplies/mini-Flyback/housing/plexi%20back.DXF)
-[Plexiglas bottom & top plates (2x)](https://github.com/SebastianDahle/PlasmaSolution/blob/master/HV_power_supplies/mini-Flyback/housing/plexi%20bottom.DXF)
-[Plexiglas side plates (2x)](https://github.com/SebastianDahle/PlasmaSolution/blob/master/HV_power_supplies/mini-Flyback/housing/plexi%20side.DXF)
+* [Plexiglas front plate (1x)](https://github.com/SebastianDahle/PlasmaSolution/blob/master/HV_power_supplies/mini-Flyback/housing/plexi%20front.DXF)
+* [Plexiglas back plate (1x)](https://github.com/SebastianDahle/PlasmaSolution/blob/master/HV_power_supplies/mini-Flyback/housing/plexi%20back.DXF)
+* [Plexiglas bottom & top plates (2x)](https://github.com/SebastianDahle/PlasmaSolution/blob/master/HV_power_supplies/mini-Flyback/housing/plexi%20bottom.DXF)
+* [Plexiglas side plates (2x)](https://github.com/SebastianDahle/PlasmaSolution/blob/master/HV_power_supplies/mini-Flyback/housing/plexi%20side.DXF)
