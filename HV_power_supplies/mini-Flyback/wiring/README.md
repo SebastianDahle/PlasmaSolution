@@ -23,3 +23,5 @@ The output of the ECG can then be connected directly to the primary side of your
 While it is not necessary to connect one pole of the transformer output to ground, it is recommended for most applications.
 
 **Note, that the rectified DC transformers store charges, which remain over a longer period of time even after turning off the power supply.**
+
+![Example wiring](https://github.com/SebastianDahle/PlasmaSolution/blob/master/HV_power_supplies/mini-Flyback/Inside_view.jpg "Example wiring")
