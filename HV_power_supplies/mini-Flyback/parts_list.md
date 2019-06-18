@@ -26,5 +26,6 @@ In this table we provide a list of required items, prices upon last order, and e
 | *18*  |  -   | *Cable gland for HV* |        | | |
 | *19*  |  -   | *PVC hose for HV cable insulation* |        | | |
 | *20*  |  -   | *Angle bracket as center for star GND connection* |        | | |
+| *21*  |  -   | *Hot glue* |        | | |
 
 ![Top view inside](https://github.com/SebastianDahle/PlasmaSolution/blob/master/HV_power_supplies/mini-Flyback/Inside_view.jpg "Top view inside")
