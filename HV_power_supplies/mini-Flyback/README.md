@@ -3,7 +3,7 @@
 ![Side view inside](https://github.com/SebastianDahle/PlasmaSolution/blob/master/HV_power_supplies/mini-Flyback/Side_view_open.jpg "Side view inside")
 
 This is a low cost design and probably the easiest way to set up a high voltage source. Using a commercial fluorecent lamp electronic ballast (ECG) to drive an HV transformer gets you there fast and simple, but it does provide very limited output power. For this power supply, there are two versions available:
-* **a** - alternating current high voltage (AC), typical 11 - 15 kV,
+* **a** - alternating current high voltage (AC), typical 11-15 kV,
 * **b** - direct current high voltage (DC), typical 30 kV.
 
 ## Getting started
