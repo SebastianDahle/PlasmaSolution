@@ -19,13 +19,13 @@ In this table we provide a list of required items, prices upon last order, and e
 | 12  |  -   | Cables                 |         | | |
 | 13  |  -   | Receptables            |         | | |
 | 14  |  -   | Screws div.            |         | | |
-*| optional: | | | | | |
-| 15  |  -   | Terminal strips |         | | |
-| 16  |  -   | Zip tie |         | | |
-| 17  |  -   | Self-adhesive cable tie sockets |         | | |
-| 18  |  -   | Cable gland for HV |         | | |
-| 19  |  -   | PVC hose for HV cable insulation |         | | |
-| 20  |  -   | Angle bracket as center for star GND connection |         | | |
-*
+| *optional:* | | | | | |
+| *15*  |  -   | *Terminal strips* |         | | |
+| *16*  |  -   | *Zip tie* |         | | |
+| *17*  |  -   | *Self-adhesive cable tie sockets* |         | | |
+| *18*  |  -   | *Cable gland for HV* |         | | |
+| *19*  |  -   | *PVC hose for HV cable insulation* |         | | |
+| *20*  |  -   | *Angle bracket as center for star GND connection* |         | | |
+
 
 ![Top view inside](https://github.com/SebastianDahle/PlasmaSolution/blob/master/HV_power_supplies/mini-Flyback/Inside_view.jpg "Top view inside")
