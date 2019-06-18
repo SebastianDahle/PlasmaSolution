@@ -18,7 +18,9 @@ This is a low cost design and probably the easiest way to set up a high voltage 
 * Due to typical protective circuits in ECGs that check for FT lamp malfunction and end-of-life symptoms, two high-load resistors are simulating  the filaments in a FT lamp.
 * The output of the ECG can then be connected directly to the primary side of your flyback transformer. If you use an unknown DC flyback transformer, e.g. a salvaged one from an old CRT television, the pin identification can be tricky. However, there are plenty of videos on the pinout of an unknown transformer (see [this example](https://www.youtube.com/watch?v=CXxkOQOK_uA)), and for the primary side it is always possible to simply wind the coil around the core yourself.
 * While it is not necessary to connect one pole of the transformer output to ground, it is recommended for most applications.
-* Note, that the rectified DC transformers store charges, which remain over a longer period of time even after turning off the power supply.
+* Rectified DC transformers store charges, which remain over a longer period of time even after turning off the power supply.
+* Typical AC flyback transformers allow to set the gap distance with the core. With the ECG being a low out power driver, the distance if of utmost importance. Adjust it properly during the testrun to get the best performance.
+* ECG are usually protected against overheating and overvoltage. Nevertheless, it is not recommended to keep the power supply running without load, i.e. without a plasma or arc igniting.
 
 ## Getting started
 
