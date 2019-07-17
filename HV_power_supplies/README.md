@@ -15,16 +15,16 @@ The following table provides an overview on the available constructions includin
 |                        |  DC  |  30 kV max      |   70 W max | Cheap & simple |
 | Cockcroft-Walton       |  DC  | 2.8 kV / module |  500 W max | Easy scalable  |
 
-## [Zero Voltage Switching](HV_power_supplies/mini-Flyback/)
+## [Zero Voltage Switching](https://github.com/SebastianDahle/PlasmaSolution/tree/master/HV_power_supplies/ZVS-driver)
 
 TODO
 
-## [Mini-Flyback](HV_power_supplies/ZVS-driver/)
+## [Mini-Flyback](https://github.com/SebastianDahle/PlasmaSolution/tree/master/HV_power_supplies/mini-Flyback)
 
 *AC and DC version*
 
 TODO
 
-## [Cockcroft-Walton generator](HV_power_supplies/Cockcroft-Walton/)
+## [Cockcroft-Walton generator](https://github.com/SebastianDahle/PlasmaSolution/tree/master/HV_power_supplies/Cockcroft-Walton)
 
 TODO
