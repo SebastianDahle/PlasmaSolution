@@ -248,4 +248,6 @@ Wire Wire Line
 Connection ~ 5550 2500
 Wire Wire Line
 	5550 2500 5650 2500
+Text Notes 10950 6250 2    50   ~ 0
+c.f.: https://www.electronics-lab.com/community/index.php?/topic/29764-my-zvs-flyback-driver-with-pcb/
 $EndSCHEMATC
