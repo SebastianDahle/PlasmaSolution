@@ -11,7 +11,7 @@ Comp "University of Ljubljana"
 Comment1 "Biotechnical faculty"
 Comment2 "Plasma Center"
 Comment3 ""
-Comment4 ""
+Comment4 "Sebastian Dahle, Bojan Gospodarić"
 $EndDescr
 Text HLabel 3300 1400 0    50   Input ~ 0
 +LVin
