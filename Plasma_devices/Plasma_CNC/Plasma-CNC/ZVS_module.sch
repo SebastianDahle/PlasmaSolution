@@ -4,12 +4,12 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 3 8
-Title ""
-Date ""
-Rev ""
-Comp ""
-Comment1 ""
-Comment2 ""
+Title "CNC Plasma-jet"
+Date "2020-09-15"
+Rev "001"
+Comp "University of Ljubljana"
+Comment1 "Biotechnical faculty"
+Comment2 "Plasma Center"
 Comment3 ""
 Comment4 ""
 $EndDescr

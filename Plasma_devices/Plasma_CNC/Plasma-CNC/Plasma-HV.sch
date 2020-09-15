@@ -4,12 +4,12 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 2 8
-Title ""
-Date ""
-Rev ""
-Comp ""
-Comment1 ""
-Comment2 ""
+Title "CNC Plasma-jet"
+Date "2020-09-15"
+Rev "001"
+Comp "University of Ljubljana"
+Comment1 "Biotechnical faculty"
+Comment2 "Plasma Center"
 Comment3 ""
 Comment4 ""
 $EndDescr
@@ -52,10 +52,10 @@ $EndComp
 Text Notes 6600 750  0    50   ~ 0
 External HV enable
 $Comp
-L power:GND #PWR?
+L power:GND #PWR0105
 U 1 1 5F642692
 P 1650 2000
-F 0 "#PWR?" H 1650 1750 50  0001 C CNN
+F 0 "#PWR0105" H 1650 1750 50  0001 C CNN
 F 1 "GND" H 1655 1827 50  0000 C CNN
 F 2 "" H 1650 2000 50  0001 C CNN
 F 3 "" H 1650 2000 50  0001 C CNN

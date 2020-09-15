@@ -4,42 +4,42 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 8
-Title ""
-Date ""
-Rev ""
-Comp ""
-Comment1 ""
-Comment2 ""
+Title "CNC Plasma-jet"
+Date "2020-09-15"
+Rev "001"
+Comp "University of Ljubljana"
+Comment1 "Biotechnical faculty"
+Comment2 "Plasma Center"
 Comment3 ""
-Comment4 ""
+Comment4 "Sebastian Dahle, Bojan Gospodarić"
 $EndDescr
 $Comp
-L power:LINE #PWR?
+L power:LINE #PWR0101
 U 1 1 5F607ED1
-P 1400 1100
-F 0 "#PWR?" H 1400 950 50  0001 C CNN
-F 1 "LINE" V 1415 1228 50  0000 L CNN
-F 2 "" H 1400 1100 50  0001 C CNN
-F 3 "" H 1400 1100 50  0001 C CNN
-	1    1400 1100
+P 1350 1100
+F 0 "#PWR0101" H 1350 950 50  0001 C CNN
+F 1 "LINE" V 1365 1228 50  0000 L CNN
+F 2 "" H 1350 1100 50  0001 C CNN
+F 3 "" H 1350 1100 50  0001 C CNN
+	1    1350 1100
 	0    -1   -1   0   
 $EndComp
 $Comp
-L power:NEUT #PWR?
+L power:NEUT #PWR0102
 U 1 1 5F608341
-P 1400 1200
-F 0 "#PWR?" H 1400 1050 50  0001 C CNN
-F 1 "NEUT" V 1400 1400 50  0000 C CNN
-F 2 "" H 1400 1200 50  0001 C CNN
-F 3 "" H 1400 1200 50  0001 C CNN
-	1    1400 1200
+P 1350 1200
+F 0 "#PWR0102" H 1350 1050 50  0001 C CNN
+F 1 "NEUT" V 1350 1400 50  0000 C CNN
+F 2 "" H 1350 1200 50  0001 C CNN
+F 3 "" H 1350 1200 50  0001 C CNN
+	1    1350 1200
 	0    -1   -1   0   
 $EndComp
 $Comp
-L power:Earth_Protective #PWR?
+L power:Earth_Protective #PWR0103
 U 1 1 5F6084DE
 P 10800 1300
-F 0 "#PWR?" H 11050 1050 50  0001 C CNN
+F 0 "#PWR0103" H 11050 1050 50  0001 C CNN
 F 1 "Earth_Protective" H 11250 1150 50  0001 C CNN
 F 2 "" H 10800 1200 50  0001 C CNN
 F 3 "~" H 10800 1200 50  0001 C CNN
@@ -47,25 +47,25 @@ F 3 "~" H 10800 1200 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L power:Earth_Protective #PWR?
+L power:Earth_Protective #PWR0104
 U 1 1 5F609266
-P 1400 1300
-F 0 "#PWR?" H 1650 1050 50  0001 C CNN
-F 1 "Earth_Protective" H 1850 1150 50  0001 C CNN
-F 2 "" H 1400 1200 50  0001 C CNN
-F 3 "~" H 1400 1200 50  0001 C CNN
-	1    1400 1300
+P 1350 1300
+F 0 "#PWR0104" H 1600 1050 50  0001 C CNN
+F 1 "Earth_Protective" H 1800 1150 50  0001 C CNN
+F 2 "" H 1350 1200 50  0001 C CNN
+F 3 "~" H 1350 1200 50  0001 C CNN
+	1    1350 1300
 	1    0    0    -1  
 $EndComp
 Wire Notes Line
-	1050 1000 1550 1000
+	1000 1000 1500 1000
 Wire Notes Line
-	1550 1000 1550 1600
+	1500 1000 1500 1600
 Wire Notes Line
-	1550 1600 1050 1600
+	1500 1600 1000 1600
 Wire Notes Line
-	1050 1600 1050 1000
-Text Notes 1100 1000 0    50   ~ 0
+	1000 1600 1000 1000
+Text Notes 1050 1000 0    50   ~ 0
 C14 socket
 $Sheet
 S 3700 2000 800  500 
@@ -87,7 +87,6 @@ F1 "Oscilloscope.sch" 50
 F2 "LINE" I L 5200 2100 50 
 F3 "NEUTRAL" I L 5200 2200 50 
 F4 "PE" I L 5200 2300 50 
-F5 "Data_out" O R 6000 2400 50 
 $EndSheet
 $Sheet
 S 6700 2500 800  500 
@@ -208,21 +207,18 @@ Wire Wire Line
 	3700 2100 3600 2100
 Wire Wire Line
 	3600 2100 3600 1100
-Connection ~ 3600 1100
 Wire Wire Line
 	3600 1100 5150 1100
 Wire Wire Line
 	3700 2200 3550 2200
 Wire Wire Line
 	3550 2200 3550 1200
-Connection ~ 3550 1200
 Wire Wire Line
 	3550 1200 5100 1200
 Wire Wire Line
 	3700 2300 3500 2300
 Wire Wire Line
 	3500 2300 3500 1300
-Connection ~ 3500 1300
 Wire Wire Line
 	3500 1300 5050 1300
 Wire Wire Line
@@ -265,53 +261,92 @@ Connection ~ 7550 4100
 $Comp
 L Device:CircuitBreaker_1P CB?
 U 1 1 5F662DFA
-P 2000 1100
-F 0 "CB?" V 1735 1100 50  0000 C CNN
-F 1 "CircuitBreaker_1P" V 1826 1100 50  0000 C CNN
-F 2 "" H 2000 1100 50  0001 C CNN
-F 3 "~" H 2000 1100 50  0001 C CNN
-	1    2000 1100
+P 1950 1100
+F 0 "CB?" V 1685 1100 50  0000 C CNN
+F 1 "CircuitBreaker_1P" V 1776 1100 50  0000 C CNN
+F 2 "" H 1950 1100 50  0001 C CNN
+F 3 "~" H 1950 1100 50  0001 C CNN
+	1    1950 1100
 	0    1    1    0   
 $EndComp
 $Comp
 L Switch:SW_DPST SW?
 U 1 1 5F663903
-P 2700 1100
-F 0 "SW?" H 2700 1425 50  0000 C CNN
-F 1 "SW_MAIN" H 2700 1334 50  0000 C CNN
-F 2 "" H 2700 1100 50  0001 C CNN
-F 3 "~" H 2700 1100 50  0001 C CNN
-	1    2700 1100
+P 2650 1100
+F 0 "SW?" H 2650 1425 50  0000 C CNN
+F 1 "SW_MAIN" H 2650 1334 50  0000 C CNN
+F 2 "" H 2650 1100 50  0001 C CNN
+F 3 "~" H 2650 1100 50  0001 C CNN
+	1    2650 1100
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	1400 1300 3500 1300
+	2450 1200 1350 1200
 Wire Wire Line
-	2900 1200 3550 1200
+	2450 1000 2350 1000
 Wire Wire Line
-	2500 1200 1400 1200
+	2350 1000 2350 1100
 Wire Wire Line
-	3000 1100 3000 1000
+	2350 1100 2250 1100
 Wire Wire Line
-	3000 1000 2900 1000
-Wire Wire Line
-	3000 1100 3600 1100
-Wire Wire Line
-	2500 1000 2400 1000
-Wire Wire Line
-	2400 1000 2400 1100
-Wire Wire Line
-	2400 1100 2300 1100
-Wire Wire Line
-	1700 1100 1400 1100
+	1650 1100 1350 1100
 Wire Wire Line
 	9100 3300 9000 3300
 Wire Wire Line
-	9100 3300 9100 3900
+	9100 3300 9100 3800
 Wire Wire Line
-	7700 3900 9100 3900
+	7750 2600 7750 3800
+$Comp
+L Device:Lamp LA?
+U 1 1 5F6A563C
+P 3150 1700
+F 0 "LA?" V 3415 1700 50  0000 C CNN
+F 1 "Lamp_MAIN" V 3324 1700 50  0000 C CNN
+F 2 "" V 3150 1800 50  0001 C CNN
+F 3 "~" V 3150 1800 50  0001 C CNN
+	1    3150 1700
+	0    -1   -1   0   
+$EndComp
 Wire Wire Line
-	7500 2600 7700 2600
+	2850 1200 2900 1200
 Wire Wire Line
-	7700 2600 7700 3900
+	2900 1100 2900 1000
+Wire Wire Line
+	2900 1000 2850 1000
+Wire Wire Line
+	2900 1200 2900 1700
+Connection ~ 2900 1200
+Wire Wire Line
+	2900 1100 3400 1100
+Connection ~ 3600 1100
+Wire Wire Line
+	2900 1200 3550 1200
+Connection ~ 3550 1200
+Wire Wire Line
+	1350 1300 3500 1300
+Connection ~ 3500 1300
+Wire Wire Line
+	2900 1700 2950 1700
+Wire Wire Line
+	3350 1700 3400 1700
+Wire Wire Line
+	3400 1700 3400 1100
+Connection ~ 3400 1100
+Wire Wire Line
+	3400 1100 3600 1100
+Text Notes 7050 6200 0    50   ~ 0
+NOTE: \nData collection on Raspberry PI from Oscilloscope via UART not implemented in current version.
+Text Label 9100 3800 2    50   ~ 0
+USB_BUS
+Wire Wire Line
+	4750 3800 4750 2200
+Wire Wire Line
+	4750 2200 4500 2200
+Connection ~ 7750 3800
+Wire Wire Line
+	7750 3800 9100 3800
+Wire Wire Line
+	4750 3800 7750 3800
+Wire Wire Line
+	7500 2600 7750 2600
 $EndSCHEMATC

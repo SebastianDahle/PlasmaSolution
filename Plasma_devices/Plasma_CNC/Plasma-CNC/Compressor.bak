@@ -4,12 +4,12 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 8 8
-Title ""
-Date ""
-Rev ""
-Comp ""
-Comment1 ""
-Comment2 ""
+Title "CNC Plasma-jet"
+Date "2020-09-15"
+Rev "001"
+Comp "University of Ljubljana"
+Comment1 "Biotechnical faculty"
+Comment2 "Plasma Center"
 Comment3 ""
 Comment4 ""
 $EndDescr
@@ -35,10 +35,10 @@ F 3 "http://gfinder.findernet.com/assets/Series/353/S40EN.pdf" H 2300 1550 50  0
 	0    -1   -1   0   
 $EndComp
 $Comp
-L power:GND #PWR?
+L power:GND #PWR0107
 U 1 1 5F682BFC
 P 1550 1400
-F 0 "#PWR?" H 1550 1150 50  0001 C CNN
+F 0 "#PWR0107" H 1550 1150 50  0001 C CNN
 F 1 "GND" H 1555 1227 50  0000 C CNN
 F 2 "" H 1550 1400 50  0001 C CNN
 F 3 "" H 1550 1400 50  0001 C CNN
@@ -63,4 +63,23 @@ Wire Wire Line
 	2750 1950 2600 1950
 Wire Wire Line
 	2000 1950 1850 1950
+$Comp
+L Plasma-CNC:Hailea_ACO208 U?
+U 1 1 5F6DCB0C
+P 3900 1200
+F 0 "U?" H 4278 1246 50  0000 L CNN
+F 1 "Hailea_ACO208" H 4278 1155 50  0000 L CNN
+F 2 "" H 3900 1450 50  0001 C CNN
+F 3 "" H 3900 1450 50  0001 C CNN
+	1    3900 1200
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2600 1150 3450 1150
+Wire Wire Line
+	2600 1550 3000 1550
+Wire Wire Line
+	3000 1550 3000 1250
+Wire Wire Line
+	3000 1250 3450 1250
 $EndSCHEMATC
