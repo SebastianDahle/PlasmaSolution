@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name Plasma-CNC)(type Legacy)(uri ${KIPRJMOD}/Plasma-CNC.lib)(options "")(descr ""))
+)

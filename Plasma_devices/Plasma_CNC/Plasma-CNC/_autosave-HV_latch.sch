@@ -14,17 +14,11 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 Text HLabel 1450 1100 0    50   Input ~ 0
-LINE
++Vin
 Text HLabel 1450 1250 0    50   Input ~ 0
-NEUTRAL
-Text HLabel 1450 1400 0    50   Input ~ 0
-PE
-Text HLabel 1450 1800 0    50   Output ~ 0
-HVon
-Text HLabel 1450 1900 0    50   Output ~ 0
-AIRon
-Text HLabel 1450 1600 0    50   Input ~ 0
-USBin
-Text HLabel 1450 2000 0    50   Output ~ 0
-SIG-GND
+-Vin
+Text HLabel 2050 1100 2    50   Output ~ 0
++Vout
+Text HLabel 2050 1250 2    50   Output ~ 0
+-Vout
 $EndSCHEMATC
